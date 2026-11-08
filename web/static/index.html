@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Federal grants ranked against NC agency strategic plans.">
+  <meta name="color-scheme" content="dark light">
+  <title>Matches · GrantBridge</title>
+  <link rel="icon" type="image/png" href="favicon.png?v=86746500cb">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Manrope:wght@500;600;700;800&amp;display=swap">
+  <link rel="stylesheet" href="stylesheet.css?v=7535f36746">
+  <script src="script.js?v=0ca532d69e" defer></script>
+</head>
+<body data-page="matches">
+  <div class="noise-overlay" aria-hidden="true"></div>
+  <div class="cursor-glow" aria-hidden="true"></div>
+  <div class="scroll-progress" aria-hidden="true"></div>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+
+  <header class="site-header">
+    <div class="header-container">
+      <a class="brand" href="index.html" aria-label="GrantBridge home">
+        <img class="brand-logo logo-on-dark" src="logo-dark.png?v=86746500cb" alt="GrantBridge" width="130" height="60" decoding="async"><img class="brand-logo logo-on-light" src="logo-light.png?v=86746500cb" alt="" aria-hidden="true" width="130" height="60" decoding="async">
+      </a>
+      <nav class="desktop-navigation" aria-label="Main navigation"><a class="nav-link active" href="index.html" aria-current="page">Matches</a><a class="nav-link" href="decisions.html">Decisions</a><a class="nav-link" href="evaluation.html">Evaluation</a><a class="nav-link" href="method.html">Method</a></nav>
+      <div class="header-actions">
+        <label class="agency-picker"><span class="sr-only">Agency</span><select id="agency-select" aria-label="Agency"></select></label>
+        <button class="icon-button command-button" type="button" aria-label="Open command menu (Ctrl or Cmd + K)"><span class="keyboard-icon">⌘K</span></button>
+        <button class="icon-button theme-toggle" type="button" aria-label="Switch light or dark theme"><svg class="sun-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.93 4.93l1.42 1.42M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.42-1.42M17.66 6.34l1.41-1.41"></path></svg><svg class="moon-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg></button>
+        <button class="icon-button settings-button" type="button" aria-label="Settings" aria-expanded="false"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg></button>
+        <button class="mobile-menu-button" type="button" aria-label="Open navigation" aria-expanded="false"><span></span><span></span></button>
+      </div>
+    </div>
+    <nav class="mobile-navigation" aria-label="Mobile navigation"><a class="active" href="index.html">Matches</a><a href="decisions.html">Decisions</a><a href="evaluation.html">Evaluation</a><a href="method.html">Method</a></nav>
+    <div class="privacy-strip" role="note">
+      <div class="privacy-strip-inner"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="10" width="16" height="11" rx="3"></rect><path d="M8 10V7a4 4 0 0 1 8 0v3"></path></svg><strong>Public information only. Do not enter confidential data.</strong>
+        <span>A privacy filter screens everything you type before any AI call, save or download. Personal details are redacted; internal information is blocked.</span> <a class="privacy-more" href="method.html#privacy">How it works</a></div>
+    </div>
+  </header>
+
+  <div class="settings-panel" role="dialog" aria-label="Settings" aria-hidden="true">
+    <div class="settings-row"><label for="user-name">Your initials <small>(recorded on decisions so the team knows who decided; screened)</small></label>
+      <input id="user-name" type="text" maxlength="8" autocomplete="off" placeholder="e.g. AR"></div>
+    <button class="secondary-button small edit-survey-action" type="button">Edit survey answers</button>
+    <button class="secondary-button small refresh-action" type="button">Refresh from Grants.gov now</button>
+    <p class="settings-status data-label">Loading data status…</p>
+  </div>
+
+  <main id="main-content">
+    <section class="hero-section">
+      <div class="hero-grid-background" aria-hidden="true"></div>
+      <div class="hero-orb hero-orb-one" aria-hidden="true"></div><div class="hero-orb hero-orb-two" aria-hidden="true"></div><div class="hero-orb hero-orb-three" aria-hidden="true"></div>
+      <div class="container hero-container">
+        <div class="hero-content reveal">
+          <div class="eyebrow"><span class="status-dot"></span><span class="data-short">Connecting to Grants.gov…</span></div>
+          <h1 class="hero-title">Federal funding, ranked for <span class="gradient-text">your plan.</span></h1>
+          <p class="hero-description">Every open and forecasted federal notice, scored against <span class="agency-plan-link">your agency's strategic plan</span>, screened for eligibility and timing, and explained with citations. You decide what to pursue.</p>
+          <div class="hero-buttons">
+            <a class="primary-button magnetic" href="#best-matches">See best matches <span class="button-arrow">↓</span></a>
+            <button class="secondary-button magnetic edit-survey-action" type="button">Tune my answers <span>→</span></button>
+          </div>
+          <div class="hero-trust-row"><div class="mini-avatar-stack" aria-hidden="true"><span>01</span><span>02</span><span>03</span><span>+</span></div>
+            <div><strong>Humans decide. Sources are cited.</strong><p>Eligibility comes from rules, never from AI alone.</p></div></div>
+        </div>
+        <div class="hero-dashboard reveal" aria-label="Live summary">
+          <div class="dashboard-window">
+            <div class="dashboard-topbar"><div class="window-controls" aria-hidden="true"><span></span><span></span><span></span></div>
+              <div class="dashboard-address agency-address">matchmaker / deq</div><div class="dashboard-status data-pill">Live</div></div>
+            <div class="dashboard-body">
+              <div class="dashboard-welcome"><div><small>Today's picture</small><h2 class="agency-name-heading">Loading…</h2></div></div>
+              <div class="dashboard-metrics">
+                <article><div class="metric-header"><span>Notices reviewed</span><span class="metric-neutral">open + forecast</span></div><strong class="counter" data-key="reviewed">0</strong><div class="mini-bars mini-bars-live" aria-hidden="true"></div></article>
+                <article><div class="metric-header"><span>Passed your filters</span><span class="metric-positive eligible-note">—</span></div><strong class="counter" data-key="shortlist">0</strong><div class="project-progress"><div><span>Directly eligible</span><strong class="counter" data-key="eligible">0</strong></div><div class="progress-track"><span class="eligible-bar"></span></div></div></article>
+              </div>
+              <div class="dashboard-chart-card"><div class="chart-card-heading"><div><small>Top match right now</small><strong class="hero-top-title">—</strong></div><span class="hero-top-score">—</span></div>
+                <div class="hero-top-meta"></div></div>
+              <div class="dashboard-bottom-row">
+                <article><span class="dashboard-icon">!</span><div><small>Due within 14 days</small><strong><span class="counter" data-key="due14">0</span> <span class="plural" data-for="due14">notices</span></strong></div></article>
+                <article><span class="dashboard-icon">↘</span><div><small>Set aside with a reason</small><strong><span class="counter" data-key="set_aside">0</span> <span class="plural" data-for="set_aside">notices</span></strong></div></article>
+              </div>
+            </div>
+          </div>
+          <div class="floating-data-card floating-card-one"><span class="floating-card-icon">↗</span><div><small>Best fit score</small><strong class="hero-best-score">—</strong></div></div>
+          <div class="floating-data-card floating-card-two"><span class="pulse-ring"></span><div><small>Privacy filter</small><strong>On for every input</strong></div></div>
+        </div>
+      </div>
+      <div class="hero-scroll-indicator"><span>Scroll to explore</span><div class="scroll-line"></div></div>
+    </section>
+
+    <section class="section matches-section" id="best-matches"><div class="container">
+      <div class="section-heading reveal"><div><span class="section-number">01</span><span class="section-kicker">Best matches</span></div><h2>The few worth your time, <span class="muted-heading">ranked and explained.</span></h2><p class="section-aside top-note">Ranked by a 100-point priority score built from your plan, eligibility, timing and resources. It is not a probability of winning.</p></div>
+      <div class="alert-banner" hidden role="status"></div>
+      <div class="matches-layout">
+        <div class="match-list" aria-live="polite"><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div></div>
+        <aside class="match-aside">
+          <div class="due-panel reveal"><div class="due-panel-head"><span class="section-kicker">Due soon</span><h3>Closing within 30 days</h3><a class="text-link calendar-link" href="#" download>Add deadlines to my calendar ↓</a></div><div class="due-list"></div></div>
+          <div class="aside-card reveal"><span class="section-kicker">Why items were set aside</span><div class="set-aside-counts"></div></div>
+          <div class="aside-card reveal"><span class="section-kicker">Your answers</span><div class="survey-summary"></div>
+            <div class="aside-actions"><button class="text-link edit-survey-action" type="button">Edit answers <span>↗</span></button>
+            <button class="text-button clear-survey-action" type="button">Clear answers</button></div></div>
+        </aside>
+      </div>
+    </div></section>
+
+    <section class="section glance-section"><div class="container">
+      <div class="section-heading reveal"><div><span class="section-number">02</span><span class="section-kicker">At a glance</span></div><h2>Where the matches land, <span class="muted-heading">and how much time is left.</span></h2></div>
+      <div class="chart-grid">
+        <figure class="chart-card reveal"><figcaption><span class="section-kicker">By strategic goal</span><strong>Shortlisted notices per plan goal</strong></figcaption><div class="chart chart-goals" role="img" aria-label="Bar chart of shortlisted notices by strategic plan goal"></div><details class="chart-table"><summary>View as table</summary><div class="chart-goals-table"></div></details></figure>
+        <figure class="chart-card reveal"><figcaption><span class="section-kicker">Deadline runway</span><strong>Fit score vs. days left to apply</strong></figcaption><div class="chart chart-runway" role="img" aria-label="Scatter chart of fit score against days left to apply"></div><details class="chart-table"><summary>View as table</summary><div class="chart-runway-table"></div></details></figure>
+      </div>
+    </div></section>
+
+    <section class="section search-section"><div class="container">
+      <div class="section-heading reveal"><div><span class="section-number">03</span><span class="section-kicker">Search by project</span></div><h2>Describe a project. <span class="muted-heading">We'll find the closest notices.</span></h2></div>
+      <form class="project-search reveal" autocomplete="off">
+        <label for="project-q" class="sr-only">Describe a project</label>
+        <input id="project-q" type="text" maxlength="300" placeholder="e.g. stream restoration and flood resilience in eastern North Carolina">
+        <button class="primary-button" type="submit">Search <span>→</span></button>
+        <p class="field-hint"><span class="shield">✓</span> Screened on the server for personal or internal information before searching.</p>
+      </form>
+      <div class="privacy-result search-privacy" aria-live="polite"></div>
+      <div class="search-results"></div>
+    </div></section>
+
+    <section class="section shortlist-section"><div class="container">
+      <div class="section-heading reveal"><div><span class="section-number">04</span><span class="section-kicker">Everything on your shortlist</span></div><h2>Filter, sort, <span class="muted-heading">and export.</span></h2></div>
+      <div class="table-toolbar reveal">
+        <label>Min score<input type="range" min="0" max="100" step="5" value="0" class="f-score"><output class="f-score-out">0</output></label>
+        <label>Due within<select class="f-due"><option value="">Any time</option><option>7</option><option>14</option><option>30</option><option>60</option><option>90</option></select></label>
+        <label>Award ceiling<select class="f-fund"><option value="0">Any</option><option value="50000">$50K+</option><option value="250000">$250K+</option><option value="1000000">$1M+</option></select></label>
+        <label>Decision<select class="f-decision"><option value="">All but Pass</option><option>None yet</option><option>Pursue</option><option>Maybe</option><option>Pass</option></select></label>
+        <label class="grow">Words<input type="search" class="f-text" placeholder="Filter titles"></label>
+        <button class="secondary-button small export-csv" type="button">Export CSV ↓</button>
+      </div>
+      <div class="table-wrap reveal"><table class="data-table shortlist-table"><thead><tr>
+        <th data-sort="rank">#</th><th data-sort="score">Score</th><th data-sort="title">Title</th><th data-sort="agency">Funder</th><th data-sort="eligibility">Eligibility</th><th data-sort="days_left">Due</th><th data-sort="award_ceiling">Award ceiling</th><th data-sort="decision">Decision</th></tr></thead><tbody></tbody></table></div>
+      <p class="table-count"></p>
+    </div></section>
+
+    <section class="section set-aside-section"><div class="container">
+      <div class="section-heading reveal"><div><span class="section-number">05</span><span class="section-kicker">Set aside</span></div><h2>Removed by a rule, <span class="muted-heading">never silently.</span></h2></div>
+      <details class="set-aside-details reveal"><summary>Show every set-aside notice and the rule that removed it</summary>
+        <div class="table-wrap"><table class="data-table setaside-table"><thead><tr><th>Score before rule</th><th>Title</th><th>Why</th><th>Due</th></tr></thead><tbody></tbody></table></div></details>
+    </div></section>
+  </main>
+
+  <footer class="site-footer"><div class="container">
+    <div class="footer-top">
+      <div class="footer-brand-column">
+        <a class="brand brand-footer" href="index.html" aria-label="GrantBridge home"><img class="brand-logo logo-on-dark" src="logo-dark.png?v=86746500cb" alt="GrantBridge" width="130" height="60" decoding="async"><img class="brand-logo logo-on-light" src="logo-light.png?v=86746500cb" alt="" aria-hidden="true" width="130" height="60" decoding="async"></a>
+        <p>A pilot prototype that helps North Carolina agencies find, screen and prioritize federal grants. People make every decision; nothing is ever submitted automatically.</p>
+      </div>
+      <div class="footer-links-column"><span>Explore</span><a href="index.html">Matches</a><a href="decisions.html">Decisions</a><a href="evaluation.html">Evaluation</a><a href="method.html">Method</a></div>
+      <div class="footer-links-column"><span>Sources</span><a href="https://www.grants.gov" target="_blank" rel="noopener">Grants.gov ↗</a><a href="https://www.osbm.nc.gov/operational-excellence/strategic-planning/agency-strategic-plans" target="_blank" rel="noopener">NC agency strategic plans ↗</a><a href="method.html">How it works</a></div>
+      <div class="footer-links-column"><span>Safeguards</span><a href="method.html#privacy">Privacy filter</a><a href="method.html#eligibility">Eligibility rules</a><a href="method.html#ai">How AI is checked</a></div>
+    </div>
+    <div class="footer-bottom"><p>© <span class="current-year"></span> GrantBridge · Federal Funds Matchmaker for NC agencies · NC OSBM Solve-a-thon prototype · public data only</p>
+      <p class="footer-data data-label"></p><button class="back-to-top" type="button">Back to top <span>↑</span></button></div>
+  </div></footer>
+
+  <div class="drawer" aria-hidden="true">
+    <div class="drawer-backdrop"></div>
+    <aside class="drawer-panel" role="dialog" aria-modal="true" aria-label="Opportunity details">
+      <button class="drawer-close icon-button" type="button" aria-label="Close details"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"></path></svg></button>
+      <div class="drawer-content"></div>
+    </aside>
+  </div>
+
+  <div class="survey-modal" aria-hidden="true">
+    <div class="survey-backdrop"></div>
+    <div class="survey-panel" role="dialog" aria-modal="true" aria-labelledby="survey-title">
+      <button class="survey-close icon-button" type="button" aria-label="Close survey"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"></path></svg></button>
+      <div class="survey-content"></div>
+    </div>
+  </div>
+
+  <div class="command-overlay" aria-hidden="true"><div class="command-panel" role="dialog" aria-modal="true" aria-label="Command menu">
+    <div class="command-search"><span>⌕</span><input type="text" placeholder="Jump to a page or action…" aria-label="Search commands"><kbd>ESC</kbd></div>
+    <div class="command-results"><span class="command-group-label">Pages</span><a class="command-item" href="index.html"><span class="command-item-icon">1</span><span><strong>Matches</strong><small>Go to matches</small></span><kbd>1</kbd></a><a class="command-item" href="decisions.html"><span class="command-item-icon">2</span><span><strong>Decisions</strong><small>Go to decisions</small></span><kbd>2</kbd></a><a class="command-item" href="evaluation.html"><span class="command-item-icon">3</span><span><strong>Evaluation</strong><small>Go to evaluation</small></span><kbd>3</kbd></a><a class="command-item" href="method.html"><span class="command-item-icon">4</span><span><strong>Method</strong><small>Go to method</small></span><kbd>4</kbd></a>
+      <span class="command-group-label">Actions</span>
+      <button class="command-item command-action" data-action="survey" type="button"><span class="command-item-icon">✎</span><span><strong>Edit survey answers</strong><small>Change focus areas, capacity, match and timing</small></span><kbd>S</kbd></button>
+      <button class="command-item command-action" data-action="clear-survey" type="button"><span class="command-item-icon">⟲</span><span><strong>Clear survey answers</strong><small>Reset focus areas and filters to neutral defaults (undoable)</small></span></button>
+      <button class="command-item command-action" data-action="refresh" type="button"><span class="command-item-icon">↻</span><span><strong>Refresh from Grants.gov</strong><small>Pull the latest notices now</small></span><kbd>R</kbd></button>
+      <button class="command-item command-action" data-action="theme" type="button"><span class="command-item-icon">◐</span><span><strong>Switch theme</strong><small>Light or dark</small></span><kbd>T</kbd></button>
+      <span class="command-group-label agency-commands-label">Agencies</span><div class="agency-commands"></div>
+    </div></div></div>
+
+  <div class="toast-stack" aria-live="polite" aria-atomic="false"></div>
+</body>
+</html>

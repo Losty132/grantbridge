@@ -1,0 +1,170 @@
+{
+  "agency_id": "dps",
+  "name": "NC Department of Public Safety",
+  "short_name": "DPS",
+  "plan": {
+    "title": "NC Department of Public Safety Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dps/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "Safeguard and preserve the lives and property of the people of North Carolina.",
+    "citation": {
+      "document": "NC Department of Public Safety Strategic Plan 2025-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dps/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Foster a culture of excellent service, safety, and innovation",
+    "Make DPS a career destination",
+    "Strengthen our comprehensive approach to public safety"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "DPS-1.1",
+      "goal_id": "1",
+      "goal_title": "Make DPS a career destination",
+      "text": "Enhance recruitment and retention of a highly qualified public safety workforce.",
+      "keywords": [
+        "public safety workforce",
+        "recruitment",
+        "law enforcement recruitment"
+      ],
+      "citation": {
+        "document": "NC Department of Public Safety Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dps/download?attachment"
+      }
+    },
+    {
+      "id": "DPS-2.1",
+      "goal_id": "2",
+      "goal_title": "Foster a culture of excellent service, safety, and innovation",
+      "text": "Provide each division with safe, appropriate facilities and infrastructure.",
+      "keywords": [
+        "facilities",
+        "public safety infrastructure"
+      ],
+      "citation": {
+        "document": "NC Department of Public Safety Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dps/download?attachment"
+      }
+    },
+    {
+      "id": "DPS-2.3",
+      "goal_id": "2",
+      "goal_title": "Foster a culture of excellent service, safety, and innovation",
+      "text": "Use data and AI-driven monitoring to inform operations and strategic planning.",
+      "keywords": [
+        "data",
+        "public safety technology",
+        "analytics"
+      ],
+      "citation": {
+        "document": "NC Department of Public Safety Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dps/download?attachment"
+      }
+    },
+    {
+      "id": "DPS-3.1",
+      "goal_id": "3",
+      "goal_title": "Strengthen our comprehensive approach to public safety",
+      "text": "Educate the public and train partners to strengthen public safety and improve access to services.",
+      "keywords": [
+        "public safety training",
+        "community education"
+      ],
+      "citation": {
+        "document": "NC Department of Public Safety Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dps/download?attachment"
+      }
+    },
+    {
+      "id": "DPS-3.2",
+      "goal_id": "3",
+      "goal_title": "Strengthen our comprehensive approach to public safety",
+      "text": "Enhance community safety through prevention and intervention, including joint enforcement operations.",
+      "keywords": [
+        "crime prevention",
+        "violence prevention",
+        "alcohol law enforcement",
+        "community safety"
+      ],
+      "citation": {
+        "document": "NC Department of Public Safety Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.2",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dps/download?attachment"
+      }
+    },
+    {
+      "id": "DPS-3.3",
+      "goal_id": "3",
+      "goal_title": "Strengthen our comprehensive approach to public safety",
+      "text": "Strengthen emergency preparedness and response through continuity of operations (NC Emergency Management).",
+      "keywords": [
+        "emergency management",
+        "emergency preparedness",
+        "hazard mitigation",
+        "disaster recovery",
+        "EMPG",
+        "homeland security"
+      ],
+      "citation": {
+        "document": "NC Department of Public Safety Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dps/download?attachment"
+      }
+    },
+    {
+      "id": "DPS-3.4",
+      "goal_id": "3",
+      "goal_title": "Strengthen our comprehensive approach to public safety",
+      "text": "Augment community-based programs that reduce juvenile crime through early prevention, enhanced re-entry services and service capacity.",
+      "keywords": [
+        "juvenile justice",
+        "juvenile delinquency prevention",
+        "reentry",
+        "youth",
+        "OJJDP"
+      ],
+      "citation": {
+        "document": "NC Department of Public Safety Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dps/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "emergency management",
+    "hazard mitigation",
+    "homeland security",
+    "juvenile justice",
+    "disaster recovery",
+    "victim services"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "FEMA",
+    "DHS",
+    "Department of Homeland Security",
+    "DOJ",
+    "Department of Justice",
+    "OJJDP",
+    "BJA",
+    "OJP"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

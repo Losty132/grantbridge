@@ -1,0 +1,164 @@
+{
+  "agency_id": "sos",
+  "name": "NC Department of the Secretary of State",
+  "short_name": "SOS",
+  "plan": {
+    "title": "NC Department of the Secretary of State 2025-2029 Strategic Plan",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/strategic-plan-secretary-state/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "To promote economic growth and protect the public from financial harm.",
+    "citation": {
+      "document": "NC Department of the Secretary of State 2025-2029 Strategic Plan",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/strategic-plan-secretary-state/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Combat fraud and protect trust",
+    "Deliver exceptional service",
+    "Ensure resource effectiveness and optimization",
+    "Foster economic growth and sustainability",
+    "Increase transparency and foster relations",
+    "Secure sufficient and reliable funding",
+    "Strengthen public and business outreach"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "SOS-1",
+      "goal_id": "1",
+      "goal_title": "Deliver exceptional service",
+      "text": "Process business filings and requests promptly, accurately and transparently to reduce fraud risk.",
+      "keywords": [
+        "business registration",
+        "fraud prevention",
+        "digital services"
+      ],
+      "citation": {
+        "document": "NC Department of the Secretary of State 2025-2029 Strategic Plan",
+        "section": "Goal 1, Objective 1",
+        "url": "https://www.osbm.nc.gov/strategic-plan-secretary-state/download?attachment"
+      }
+    },
+    {
+      "id": "SOS-2",
+      "goal_id": "2",
+      "goal_title": "Foster economic growth and sustainability",
+      "text": "Equip businesses and policymakers with data-driven insights, education and partnerships that enhance capitalization and reduce risk.",
+      "keywords": [
+        "small business",
+        "capital formation",
+        "economic growth",
+        "entrepreneurship"
+      ],
+      "citation": {
+        "document": "NC Department of the Secretary of State 2025-2029 Strategic Plan",
+        "section": "Goal 2, Objective 2",
+        "url": "https://www.osbm.nc.gov/strategic-plan-secretary-state/download?attachment"
+      }
+    },
+    {
+      "id": "SOS-3",
+      "goal_id": "3",
+      "goal_title": "Combat fraud and protect trust",
+      "text": "Partner with local, state, federal and multistate task forces to investigate and enforce securities, notary and related laws.",
+      "keywords": [
+        "securities fraud",
+        "investor protection",
+        "elder financial exploitation",
+        "fraud investigation"
+      ],
+      "citation": {
+        "document": "NC Department of the Secretary of State 2025-2029 Strategic Plan",
+        "section": "Goal 3, Objective 3",
+        "url": "https://www.osbm.nc.gov/strategic-plan-secretary-state/download?attachment"
+      }
+    },
+    {
+      "id": "SOS-4",
+      "goal_id": "4",
+      "goal_title": "Strengthen public and business outreach",
+      "text": "Expand access to Rural RISE NC resources to help small businesses in rural counties grow.",
+      "keywords": [
+        "rural small business",
+        "rural development",
+        "business outreach"
+      ],
+      "citation": {
+        "document": "NC Department of the Secretary of State 2025-2029 Strategic Plan",
+        "section": "Goal 4, Objective 4",
+        "url": "https://www.osbm.nc.gov/strategic-plan-secretary-state/download?attachment"
+      }
+    },
+    {
+      "id": "SOS-5",
+      "goal_id": "5",
+      "goal_title": "Increase transparency and foster relations",
+      "text": "Improve lobbyist registration transparency and public access to disclosures.",
+      "keywords": [
+        "transparency",
+        "government accountability"
+      ],
+      "citation": {
+        "document": "NC Department of the Secretary of State 2025-2029 Strategic Plan",
+        "section": "Goal 5, Objective 5",
+        "url": "https://www.osbm.nc.gov/strategic-plan-secretary-state/download?attachment"
+      }
+    },
+    {
+      "id": "SOS-6",
+      "goal_id": "6",
+      "goal_title": "Ensure resource effectiveness and optimization",
+      "text": "Align spending with agency priorities through data-driven planning.",
+      "keywords": [
+        "data-driven planning",
+        "efficiency"
+      ],
+      "citation": {
+        "document": "NC Department of the Secretary of State 2025-2029 Strategic Plan",
+        "section": "Goal 6, Objective 6",
+        "url": "https://www.osbm.nc.gov/strategic-plan-secretary-state/download?attachment"
+      }
+    },
+    {
+      "id": "SOS-7",
+      "goal_id": "7",
+      "goal_title": "Secure sufficient and reliable funding",
+      "text": "Secure sufficient and reliable funding to support critical operations and service quality.",
+      "keywords": [
+        "funding",
+        "operations"
+      ],
+      "citation": {
+        "document": "NC Department of the Secretary of State 2025-2029 Strategic Plan",
+        "section": "Goal 7, Objective 7",
+        "url": "https://www.osbm.nc.gov/strategic-plan-secretary-state/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "securities fraud",
+    "small business",
+    "notary",
+    "investor protection",
+    "financial fraud"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "SBA",
+    "DOJ",
+    "Department of Justice",
+    "Treasury"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

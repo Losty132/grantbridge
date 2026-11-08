@@ -1,0 +1,131 @@
+{
+  "agency_id": "dol",
+  "name": "NC Department of Labor",
+  "short_name": "NCDOL",
+  "plan": {
+    "title": "NC Department of Labor Strategic Plan 2026-2029",
+    "years": "2026-2029",
+    "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dol/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "To foster a safe, healthy, fair, and productive North Carolina by providing responsive, effective, and efficient services and encouraging quality workplace practices.",
+    "citation": {
+      "document": "NC Department of Labor Strategic Plan 2026-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dol/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Customer service and modern operations",
+    "Enforce labor standards",
+    "Ensure public safety through device inspections",
+    "Protect the safety and health of North Carolina's workforce"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "NCDOL-1.1",
+      "goal_id": "1",
+      "goal_title": "Protect the safety and health of North Carolina's workforce",
+      "text": "Reduce fatal and serious workplace injury risk.",
+      "keywords": [
+        "occupational safety",
+        "workplace fatalities",
+        "OSHA",
+        "injury prevention"
+      ],
+      "citation": {
+        "document": "NC Department of Labor Strategic Plan 2026-2029",
+        "section": "Goal 1, Objective 1.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dol/download?attachment"
+      }
+    },
+    {
+      "id": "NCDOL-1.3-1.4",
+      "goal_id": "1",
+      "goal_title": "Protect the safety and health of North Carolina's workforce",
+      "text": "Expand voluntary safety consultations and recognition programs (SHARP, Carolina Star).",
+      "keywords": [
+        "safety consultation",
+        "SHARP",
+        "voluntary protection"
+      ],
+      "citation": {
+        "document": "NC Department of Labor Strategic Plan 2026-2029",
+        "section": "Goal 1, Objective 1.3-1.4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dol/download?attachment"
+      }
+    },
+    {
+      "id": "NCDOL-2.1-2.3",
+      "goal_id": "2",
+      "goal_title": "Ensure public safety through device inspections",
+      "text": "Complete inspections of boilers, pressure vessels, elevators and amusement devices and rebuild inspection capacity.",
+      "keywords": [
+        "elevator safety",
+        "boiler inspection",
+        "amusement ride safety"
+      ],
+      "citation": {
+        "document": "NC Department of Labor Strategic Plan 2026-2029",
+        "section": "Goal 2, Objective 2.1-2.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dol/download?attachment"
+      }
+    },
+    {
+      "id": "NCDOL-3.1-3.3",
+      "goal_id": "3",
+      "goal_title": "Enforce labor standards",
+      "text": "Recover unpaid wages and resolve complaints through timely investigations and mediation.",
+      "keywords": [
+        "wage and hour",
+        "labor standards",
+        "unpaid wages"
+      ],
+      "citation": {
+        "document": "NC Department of Labor Strategic Plan 2026-2029",
+        "section": "Goal 3, Objective 3.1-3.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dol/download?attachment"
+      }
+    },
+    {
+      "id": "NCDOL-4.2",
+      "goal_id": "4",
+      "goal_title": "Customer service and modern operations",
+      "text": "Expand workplace safety training programs for employers and employees.",
+      "keywords": [
+        "workplace safety training",
+        "Susan Harwood",
+        "safety education",
+        "apprenticeship"
+      ],
+      "citation": {
+        "document": "NC Department of Labor Strategic Plan 2026-2029",
+        "section": "Goal 4, Objective 4.2",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dol/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "occupational safety",
+    "workplace safety training",
+    "apprenticeship",
+    "wage and hour",
+    "elevator safety"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "DOL",
+    "Department of Labor",
+    "OSHA"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

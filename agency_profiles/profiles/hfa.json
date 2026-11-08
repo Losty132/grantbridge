@@ -1,0 +1,155 @@
+{
+  "agency_id": "hfa",
+  "name": "NC Housing Finance Agency",
+  "short_name": "NCHFA",
+  "plan": {
+    "title": "NC Housing Finance Agency Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-hfa/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "Finances affordable housing opportunities for North Carolinians whose needs are not met by the market.",
+    "citation": {
+      "document": "NC Housing Finance Agency Strategic Plan 2025-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-hfa/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Meet housing needs through a variety of housing options",
+    "New and existing funding resources",
+    "Partner to accomplish housing strategies",
+    "Reach underserved groups and communities",
+    "Sustainable building practices"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "NCHFA-1",
+      "goal_id": "1",
+      "goal_title": "Meet housing needs through a variety of housing options",
+      "text": "Increase households served by 25%, including rental, homeownership and stay-in-place housing.",
+      "keywords": [
+        "affordable housing",
+        "rental housing",
+        "homeownership",
+        "down payment assistance",
+        "HOME"
+      ],
+      "citation": {
+        "document": "NC Housing Finance Agency Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-hfa/download?attachment"
+      }
+    },
+    {
+      "id": "NCHFA-1.b",
+      "goal_id": "1",
+      "goal_title": "Meet housing needs through a variety of housing options",
+      "text": "Increase stay-in-place housing units (repairs and accessibility) by 20%.",
+      "keywords": [
+        "home repair",
+        "accessibility modifications",
+        "aging in place",
+        "urgent repair"
+      ],
+      "citation": {
+        "document": "NC Housing Finance Agency Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.b",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-hfa/download?attachment"
+      }
+    },
+    {
+      "id": "NCHFA-2",
+      "goal_id": "2",
+      "goal_title": "Partner to accomplish housing strategies",
+      "text": "Ensure every program has at least one viable partner serving each county.",
+      "keywords": [
+        "housing partnerships",
+        "local governments",
+        "nonprofit housing"
+      ],
+      "citation": {
+        "document": "NC Housing Finance Agency Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-hfa/download?attachment"
+      }
+    },
+    {
+      "id": "NCHFA-3",
+      "goal_id": "3",
+      "goal_title": "New and existing funding resources",
+      "text": "Add five new funding sources for new or existing housing programs.",
+      "keywords": [
+        "housing trust fund",
+        "low-income housing tax credit",
+        "CDBG-DR",
+        "housing finance"
+      ],
+      "citation": {
+        "document": "NC Housing Finance Agency Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-hfa/download?attachment"
+      }
+    },
+    {
+      "id": "NCHFA-4",
+      "goal_id": "4",
+      "goal_title": "Sustainable building practices",
+      "text": "Set baselines and targets for green building standards in each business unit.",
+      "keywords": [
+        "green building",
+        "energy efficiency",
+        "sustainable housing",
+        "weatherization"
+      ],
+      "citation": {
+        "document": "NC Housing Finance Agency Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-hfa/download?attachment"
+      }
+    },
+    {
+      "id": "NCHFA-7",
+      "goal_id": "7",
+      "goal_title": "Reach underserved groups and communities",
+      "text": "Improve access and use of housing programs in underserved communities.",
+      "keywords": [
+        "underserved communities",
+        "fair housing",
+        "housing access"
+      ],
+      "citation": {
+        "document": "NC Housing Finance Agency Strategic Plan 2025-2029",
+        "section": "Goal 7, Objective 7",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-hfa/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "affordable housing",
+    "housing finance",
+    "homeownership",
+    "rental housing",
+    "home repair",
+    "housing trust fund"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99",
+    "08"
+  ],
+  "preferred_funders": [
+    "HUD",
+    "Department of Housing and Urban Development",
+    "Treasury",
+    "USDA",
+    "DOE"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

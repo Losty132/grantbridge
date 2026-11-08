@@ -1,0 +1,127 @@
+{
+  "agency_id": "elections",
+  "name": "NC State Board of Elections",
+  "short_name": "NCSBE",
+  "plan": {
+    "title": "NC State Board of Elections Strategic Plan 2023-2025",
+    "years": "2023-2025",
+    "url": "https://www.osbm.nc.gov/strategic-plan-sbe/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "To supervise and support the lawful, accurate, and transparent administration of elections for the people of North Carolina.",
+    "citation": {
+      "document": "NC State Board of Elections Strategic Plan 2023-2025",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/strategic-plan-sbe/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Excellent customer service",
+    "Good stewards of election resources",
+    "Secure environment for North Carolina elections",
+    "Statewide uniformity in elections administration"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "NCSBE-1.1",
+      "goal_id": "1",
+      "goal_title": "Secure environment for North Carolina elections",
+      "text": "Maintain best practices in information and systems security for elections.",
+      "keywords": [
+        "election security",
+        "cybersecurity",
+        "HAVA",
+        "election infrastructure"
+      ],
+      "citation": {
+        "document": "NC State Board of Elections Strategic Plan 2023-2025",
+        "section": "Goal 1, Objective 1.1",
+        "url": "https://www.osbm.nc.gov/strategic-plan-sbe/download?attachment"
+      }
+    },
+    {
+      "id": "NCSBE-1.2",
+      "goal_id": "1",
+      "goal_title": "Secure environment for North Carolina elections",
+      "text": "Ensure physical protection and safety of state and county election workers, facilities and equipment.",
+      "keywords": [
+        "election worker safety",
+        "physical security"
+      ],
+      "citation": {
+        "document": "NC State Board of Elections Strategic Plan 2023-2025",
+        "section": "Goal 1, Objective 1.2",
+        "url": "https://www.osbm.nc.gov/strategic-plan-sbe/download?attachment"
+      }
+    },
+    {
+      "id": "NCSBE-2.1-2.3",
+      "goal_id": "2",
+      "goal_title": "Good stewards of election resources",
+      "text": "Strengthen budget management, inventory management and knowledge sharing.",
+      "keywords": [
+        "election administration",
+        "grants management"
+      ],
+      "citation": {
+        "document": "NC State Board of Elections Strategic Plan 2023-2025",
+        "section": "Goal 2, Objective 2.1-2.3",
+        "url": "https://www.osbm.nc.gov/strategic-plan-sbe/download?attachment"
+      }
+    },
+    {
+      "id": "NCSBE-3.1",
+      "goal_id": "3",
+      "goal_title": "Statewide uniformity in elections administration",
+      "text": "Create and improve guidance, manuals and policies for county boards of elections.",
+      "keywords": [
+        "county boards of elections",
+        "election administration",
+        "training"
+      ],
+      "citation": {
+        "document": "NC State Board of Elections Strategic Plan 2023-2025",
+        "section": "Goal 3, Objective 3.1",
+        "url": "https://www.osbm.nc.gov/strategic-plan-sbe/download?attachment"
+      }
+    },
+    {
+      "id": "NCSBE-4.1",
+      "goal_id": "4",
+      "goal_title": "Excellent customer service",
+      "text": "Foster transparency about election processes.",
+      "keywords": [
+        "transparency",
+        "voter education"
+      ],
+      "citation": {
+        "document": "NC State Board of Elections Strategic Plan 2023-2025",
+        "section": "Goal 4, Objective 4.1",
+        "url": "https://www.osbm.nc.gov/strategic-plan-sbe/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "election security",
+    "election administration",
+    "cybersecurity",
+    "voting systems"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "EAC",
+    "Election Assistance Commission",
+    "DHS",
+    "CISA"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

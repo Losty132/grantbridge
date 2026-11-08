@@ -1,0 +1,173 @@
+{
+  "agency_id": "dit",
+  "name": "NC Department of Information Technology",
+  "short_name": "NCDIT",
+  "plan": {
+    "title": "NCDIT Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/strategic-plan-ncdit/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "Enable business-driven services and solutions that provide a secure and frictionless digital government experience for North Carolinians.",
+    "citation": {
+      "document": "NCDIT Strategic Plan 2025-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/strategic-plan-ncdit/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Agile, forward-thinking public-sector IT workforce",
+    "Future-ready government through AI and emerging technologies",
+    "Protect North Carolina's information assets",
+    "Reliable and accessible technology and data services",
+    "Statewide IT ecosystem with agencies, counties and community institutions"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "NCDIT-1.a",
+      "goal_id": "1",
+      "goal_title": "Reliable and accessible technology and data services",
+      "text": "Ensure state services are supported by reliable, accessible technology and data, with transparent IT funding and performance ratings.",
+      "keywords": [
+        "IT infrastructure",
+        "data services",
+        "IT modernization",
+        "digital government"
+      ],
+      "citation": {
+        "document": "NCDIT Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.a",
+        "url": "https://www.osbm.nc.gov/strategic-plan-ncdit/download?attachment"
+      }
+    },
+    {
+      "id": "NCDIT-2.a",
+      "goal_id": "2",
+      "goal_title": "Future-ready government through AI and emerging technologies",
+      "text": "Set up statewide data governance to advance data quality, accessibility and analytics.",
+      "keywords": [
+        "data governance",
+        "data modernization",
+        "analytics",
+        "open data"
+      ],
+      "citation": {
+        "document": "NCDIT Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.a",
+        "url": "https://www.osbm.nc.gov/strategic-plan-ncdit/download?attachment"
+      }
+    },
+    {
+      "id": "NCDIT-2.b",
+      "goal_id": "2",
+      "goal_title": "Future-ready government through AI and emerging technologies",
+      "text": "Make agencies AI-ready and stand up an AI accelerator for smarter, faster, trusted government operations.",
+      "keywords": [
+        "artificial intelligence",
+        "emerging technology",
+        "AI"
+      ],
+      "citation": {
+        "document": "NCDIT Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.b",
+        "url": "https://www.osbm.nc.gov/strategic-plan-ncdit/download?attachment"
+      }
+    },
+    {
+      "id": "NCDIT-3.a",
+      "goal_id": "3",
+      "goal_title": "Statewide IT ecosystem with agencies, counties and community institutions",
+      "text": "Coordinate with agencies, counties, boards and community institutions to advance cybersecurity and efficiency, reducing application redundancy.",
+      "keywords": [
+        "local government",
+        "shared services",
+        "counties",
+        "interoperability"
+      ],
+      "citation": {
+        "document": "NCDIT Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.a",
+        "url": "https://www.osbm.nc.gov/strategic-plan-ncdit/download?attachment"
+      }
+    },
+    {
+      "id": "NCDIT-4.a",
+      "goal_id": "4",
+      "goal_title": "Protect North Carolina's information assets",
+      "text": "Expand two-way cybersecurity partnerships with federal, state and local partners.",
+      "keywords": [
+        "cybersecurity",
+        "state and local cybersecurity",
+        "information sharing",
+        "CISA"
+      ],
+      "citation": {
+        "document": "NCDIT Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4.a",
+        "url": "https://www.osbm.nc.gov/strategic-plan-ncdit/download?attachment"
+      }
+    },
+    {
+      "id": "NCDIT-4.b",
+      "goal_id": "4",
+      "goal_title": "Protect North Carolina's information assets",
+      "text": "Assess the state's cyber posture, monitor privacy risk and reduce the cyber threat surface through risk management.",
+      "keywords": [
+        "cyber risk",
+        "privacy",
+        "critical infrastructure",
+        "ransomware"
+      ],
+      "citation": {
+        "document": "NCDIT Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4.b",
+        "url": "https://www.osbm.nc.gov/strategic-plan-ncdit/download?attachment"
+      }
+    },
+    {
+      "id": "NCDIT-5.a",
+      "goal_id": "5",
+      "goal_title": "Agile, forward-thinking public-sector IT workforce",
+      "text": "Establish IT talent pipelines and entry-level programs for the public-sector IT workforce.",
+      "keywords": [
+        "IT workforce",
+        "cyber workforce",
+        "apprenticeship",
+        "talent pipeline"
+      ],
+      "citation": {
+        "document": "NCDIT Strategic Plan 2025-2029",
+        "section": "Goal 5, Objective 5.a",
+        "url": "https://www.osbm.nc.gov/strategic-plan-ncdit/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "cybersecurity",
+    "broadband",
+    "digital equity",
+    "state and local cybersecurity",
+    "artificial intelligence",
+    "data modernization"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "DHS",
+    "CISA",
+    "FEMA",
+    "NTIA",
+    "Department of Commerce",
+    "FCC",
+    "USDA"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

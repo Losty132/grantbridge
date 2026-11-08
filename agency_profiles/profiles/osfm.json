@@ -1,0 +1,150 @@
+{
+  "agency_id": "osfm",
+  "name": "NC Office of State Fire Marshal",
+  "short_name": "OSFM",
+  "plan": {
+    "title": "NC Office of State Fire Marshal Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/strategic-plan-osfm/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "To protect the lives and property of North Carolina residents and emergency responders by delivering outstanding service through comprehensive risk reduction programs.",
+    "citation": {
+      "document": "NC Office of State Fire Marshal Strategic Plan 2025-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/strategic-plan-osfm/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "High-quality training programs",
+    "Protect citizens of North Carolina",
+    "Protect state-owned property",
+    "Strengthen state emergency response capabilities"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "OSFM-1.a",
+      "goal_id": "1",
+      "goal_title": "High-quality training programs",
+      "text": "Complete and expand the Emergency Training Center for state-of-the-art disaster readiness training.",
+      "keywords": [
+        "firefighter training",
+        "emergency training center",
+        "disaster readiness"
+      ],
+      "citation": {
+        "document": "NC Office of State Fire Marshal Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.a",
+        "url": "https://www.osbm.nc.gov/strategic-plan-osfm/download?attachment"
+      }
+    },
+    {
+      "id": "OSFM-1.c",
+      "goal_id": "1",
+      "goal_title": "High-quality training programs",
+      "text": "Advance online training and testing to improve accessibility.",
+      "keywords": [
+        "online training",
+        "fire service training"
+      ],
+      "citation": {
+        "document": "NC Office of State Fire Marshal Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.c",
+        "url": "https://www.osbm.nc.gov/strategic-plan-osfm/download?attachment"
+      }
+    },
+    {
+      "id": "OSFM-2.a",
+      "goal_id": "2",
+      "goal_title": "Strengthen state emergency response capabilities",
+      "text": "Develop a State Emergency Response Team (SERT) plan and lead collaboration with federal, state and local partners in response and recovery.",
+      "keywords": [
+        "emergency response",
+        "SERT",
+        "urban search and rescue",
+        "all-hazards",
+        "disaster recovery"
+      ],
+      "citation": {
+        "document": "NC Office of State Fire Marshal Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.a",
+        "url": "https://www.osbm.nc.gov/strategic-plan-osfm/download?attachment"
+      }
+    },
+    {
+      "id": "OSFM-3.b",
+      "goal_id": "3",
+      "goal_title": "Protect state-owned property",
+      "text": "Conduct risk assessments for state agencies, DPI and community colleges to reduce property loss.",
+      "keywords": [
+        "risk assessment",
+        "property protection"
+      ],
+      "citation": {
+        "document": "NC Office of State Fire Marshal Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.b",
+        "url": "https://www.osbm.nc.gov/strategic-plan-osfm/download?attachment"
+      }
+    },
+    {
+      "id": "OSFM-4.a",
+      "goal_id": "4",
+      "goal_title": "Protect citizens of North Carolina",
+      "text": "Develop and educate stakeholders on building and fire codes to ensure public safety.",
+      "keywords": [
+        "fire prevention",
+        "building codes",
+        "fire code",
+        "community risk reduction"
+      ],
+      "citation": {
+        "document": "NC Office of State Fire Marshal Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4.a",
+        "url": "https://www.osbm.nc.gov/strategic-plan-osfm/download?attachment"
+      }
+    },
+    {
+      "id": "OSFM-4.d",
+      "goal_id": "4",
+      "goal_title": "Protect citizens of North Carolina",
+      "text": "Disburse grant funding to volunteer fire departments, rescue squads and EMS units to purchase equipment.",
+      "keywords": [
+        "volunteer fire departments",
+        "rescue squads",
+        "EMS",
+        "fire equipment",
+        "Assistance to Firefighters"
+      ],
+      "citation": {
+        "document": "NC Office of State Fire Marshal Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4.d",
+        "url": "https://www.osbm.nc.gov/strategic-plan-osfm/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "fire service",
+    "firefighter training",
+    "emergency response",
+    "fire prevention",
+    "rescue",
+    "EMS"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "FEMA",
+    "DHS",
+    "USFA",
+    "U.S. Fire Administration"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

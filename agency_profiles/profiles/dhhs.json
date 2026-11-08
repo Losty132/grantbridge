@@ -1,0 +1,228 @@
+{
+  "agency_id": "dhhs",
+  "name": "NC Department of Health and Human Services",
+  "short_name": "DHHS",
+  "plan": {
+    "title": "NCDHHS 2026-2030 Strategic Plan",
+    "years": "2026-2030",
+    "url": "https://www.osbm.nc.gov/dhhs-2026-2030-strategic-plan/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "In collaboration with our partners, DHHS provides essential services to improve the health, safety and well-being of all North Carolinians.",
+    "citation": {
+      "document": "NCDHHS 2026-2030 Strategic Plan",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/dhhs-2026-2030-strategic-plan/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Access to care",
+    "Organizational excellence",
+    "Sustainable workforce",
+    "Transform and modernize health care",
+    "Whole person well-being"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "DHHS-1.1-1.2",
+      "goal_id": "1",
+      "goal_title": "Access to care",
+      "text": "Maintain access to health and human services where people are and reduce social, cultural and literacy barriers.",
+      "keywords": [
+        "access to care",
+        "health equity",
+        "community health workers",
+        "telehealth"
+      ],
+      "citation": {
+        "document": "NCDHHS 2026-2030 Strategic Plan",
+        "section": "Goal 1, Objective 1.1-1.2",
+        "url": "https://www.osbm.nc.gov/dhhs-2026-2030-strategic-plan/download?attachment"
+      }
+    },
+    {
+      "id": "DHHS-1.3-1.4",
+      "goal_id": "1",
+      "goal_title": "Access to care",
+      "text": "Support affordable care options and remove barriers to accessing services.",
+      "keywords": [
+        "Medicaid",
+        "affordable care",
+        "health insurance coverage"
+      ],
+      "citation": {
+        "document": "NCDHHS 2026-2030 Strategic Plan",
+        "section": "Goal 1, Objective 1.3-1.4",
+        "url": "https://www.osbm.nc.gov/dhhs-2026-2030-strategic-plan/download?attachment"
+      }
+    },
+    {
+      "id": "DHHS-2.1-2.2",
+      "goal_id": "2",
+      "goal_title": "Whole person well-being",
+      "text": "Integrate health and human services and simplify navigation of mental health, substance use, I/DD and TBI services.",
+      "keywords": [
+        "behavioral health",
+        "mental health",
+        "substance use disorder",
+        "opioid",
+        "intellectual and developmental disabilities",
+        "crisis services"
+      ],
+      "citation": {
+        "document": "NCDHHS 2026-2030 Strategic Plan",
+        "section": "Goal 2, Objective 2.1-2.2",
+        "url": "https://www.osbm.nc.gov/dhhs-2026-2030-strategic-plan/download?attachment"
+      }
+    },
+    {
+      "id": "DHHS-2.3",
+      "goal_id": "2",
+      "goal_title": "Whole person well-being",
+      "text": "Improve systems that address non-medical drivers of health such as access to healthy food.",
+      "keywords": [
+        "food and nutrition",
+        "SNAP",
+        "WIC",
+        "social determinants of health",
+        "healthy opportunities"
+      ],
+      "citation": {
+        "document": "NCDHHS 2026-2030 Strategic Plan",
+        "section": "Goal 2, Objective 2.3",
+        "url": "https://www.osbm.nc.gov/dhhs-2026-2030-strategic-plan/download?attachment"
+      }
+    },
+    {
+      "id": "DHHS-3.1-3.2",
+      "goal_id": "3",
+      "goal_title": "Transform and modernize health care",
+      "text": "Align policy, finance and operations to manage costs, improve care and leverage purchasing power.",
+      "keywords": [
+        "value-based care",
+        "health care costs",
+        "Medicaid transformation"
+      ],
+      "citation": {
+        "document": "NCDHHS 2026-2030 Strategic Plan",
+        "section": "Goal 3, Objective 3.1-3.2",
+        "url": "https://www.osbm.nc.gov/dhhs-2026-2030-strategic-plan/download?attachment"
+      }
+    },
+    {
+      "id": "DHHS-3.4",
+      "goal_id": "3",
+      "goal_title": "Transform and modernize health care",
+      "text": "Promote a sustainable rural health delivery system that improves health outcomes.",
+      "keywords": [
+        "rural health",
+        "rural hospitals",
+        "rural health transformation"
+      ],
+      "citation": {
+        "document": "NCDHHS 2026-2030 Strategic Plan",
+        "section": "Goal 3, Objective 3.4",
+        "url": "https://www.osbm.nc.gov/dhhs-2026-2030-strategic-plan/download?attachment"
+      }
+    },
+    {
+      "id": "DHHS-4.1-4.4",
+      "goal_id": "4",
+      "goal_title": "Sustainable workforce",
+      "text": "Build career pathways, training and incentives for health and human services workforces.",
+      "keywords": [
+        "health workforce",
+        "behavioral health workforce",
+        "direct care workers",
+        "nursing"
+      ],
+      "citation": {
+        "document": "NCDHHS 2026-2030 Strategic Plan",
+        "section": "Goal 4, Objective 4.1-4.4",
+        "url": "https://www.osbm.nc.gov/dhhs-2026-2030-strategic-plan/download?attachment"
+      }
+    },
+    {
+      "id": "DHHS-4.3",
+      "goal_id": "4",
+      "goal_title": "Sustainable workforce",
+      "text": "Support individuals with employment barriers to work, build financial security and independence.",
+      "keywords": [
+        "vocational rehabilitation",
+        "employment supports",
+        "economic mobility"
+      ],
+      "citation": {
+        "document": "NCDHHS 2026-2030 Strategic Plan",
+        "section": "Goal 4, Objective 4.3",
+        "url": "https://www.osbm.nc.gov/dhhs-2026-2030-strategic-plan/download?attachment"
+      }
+    },
+    {
+      "id": "DHHS-5.1-5.2",
+      "goal_id": "5",
+      "goal_title": "Organizational excellence",
+      "text": "Modernize technology systems and foster data-driven decision-making.",
+      "keywords": [
+        "health IT",
+        "data modernization",
+        "public health data"
+      ],
+      "citation": {
+        "document": "NCDHHS 2026-2030 Strategic Plan",
+        "section": "Goal 5, Objective 5.1-5.2",
+        "url": "https://www.osbm.nc.gov/dhhs-2026-2030-strategic-plan/download?attachment"
+      }
+    },
+    {
+      "id": "DHHS-2.4",
+      "goal_id": "2",
+      "goal_title": "Whole person well-being",
+      "text": "Strengthen quality, efficiency and reliability across child welfare, aging and public health services.",
+      "keywords": [
+        "child welfare",
+        "aging services",
+        "public health",
+        "maternal and child health"
+      ],
+      "citation": {
+        "document": "NCDHHS 2026-2030 Strategic Plan",
+        "section": "Goal 2, Objective 2.4",
+        "url": "https://www.osbm.nc.gov/dhhs-2026-2030-strategic-plan/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "public health",
+    "Medicaid",
+    "behavioral health",
+    "substance use",
+    "child welfare",
+    "rural health",
+    "health workforce",
+    "food and nutrition"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "HHS",
+    "Department of Health and Human Services",
+    "CDC",
+    "CMS",
+    "HRSA",
+    "SAMHSA",
+    "ACF",
+    "ACL",
+    "USDA",
+    "FNS"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

@@ -1,0 +1,111 @@
+{
+  "agency_id": "osc",
+  "name": "NC Office of the State Controller",
+  "short_name": "OSC",
+  "plan": {
+    "title": "Office of the State Controller Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-osc/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "To protect the financial integrity of the State and promote accountability in financial management.",
+    "citation": {
+      "document": "Office of the State Controller Strategic Plan 2025-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-osc/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Improve enterprise systems",
+    "Recruit and retain high-quality employees",
+    "Statewide accounting support",
+    "Track statewide finances accurately and on time"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "OSC-1.1-1.7",
+      "goal_id": "1",
+      "goal_title": "Recruit and retain high-quality employees",
+      "text": "Improve compensation reporting, training, hiring and retention.",
+      "keywords": [
+        "workforce",
+        "training"
+      ],
+      "citation": {
+        "document": "Office of the State Controller Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.1-1.7",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-osc/download?attachment"
+      }
+    },
+    {
+      "id": "OSC-2.1-2.4",
+      "goal_id": "2",
+      "goal_title": "Improve enterprise systems",
+      "text": "Modernize the integrated HR-payroll system and NC Financial System and establish a security and compliance program.",
+      "keywords": [
+        "financial systems",
+        "ERP modernization",
+        "cybersecurity"
+      ],
+      "citation": {
+        "document": "Office of the State Controller Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.1-2.4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-osc/download?attachment"
+      }
+    },
+    {
+      "id": "OSC-3.1-3.3",
+      "goal_id": "3",
+      "goal_title": "Track statewide finances accurately and on time",
+      "text": "Meet statutory financial reporting deadlines and reduce agency error rates through training.",
+      "keywords": [
+        "financial reporting",
+        "ACFR",
+        "accuracy"
+      ],
+      "citation": {
+        "document": "Office of the State Controller Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.1-3.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-osc/download?attachment"
+      }
+    },
+    {
+      "id": "OSC-5.3-5.5",
+      "goal_id": "5",
+      "goal_title": "Statewide accounting support",
+      "text": "Deliver internal control support, governmental accounting education and full federal reporting compliance.",
+      "keywords": [
+        "internal controls",
+        "government accounting",
+        "federal reporting",
+        "single audit"
+      ],
+      "citation": {
+        "document": "Office of the State Controller Strategic Plan 2025-2029",
+        "section": "Goal 5, Objective 5.3-5.5",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-osc/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "financial management",
+    "internal controls",
+    "government accounting",
+    "financial systems"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "Treasury",
+    "HHS"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

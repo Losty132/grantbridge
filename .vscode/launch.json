@@ -1,0 +1,83 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run web app",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "flask",
+      "args": [
+        "--app",
+        "web.server",
+        "run",
+        "--port",
+        "8000",
+        "--debug"
+      ],
+      "envFile": "${workspaceFolder}/.env",
+      "cwd": "${workspaceFolder}",
+      "justMyCode": true
+    },
+    {
+      "name": "Run classic app (Streamlit backup)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "streamlit",
+      "args": [
+        "run",
+        "app.py",
+        "--server.port",
+        "8000"
+      ],
+      "envFile": "${workspaceFolder}/.env",
+      "cwd": "${workspaceFolder}",
+      "justMyCode": true
+    },
+    {
+      "name": "Refresh data from Grants.gov (live)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "data_retrieval.refresh",
+      "envFile": "${workspaceFolder}/.env",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Refresh data (quick)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "data_retrieval.refresh",
+      "args": [
+        "--quick"
+      ],
+      "envFile": "${workspaceFolder}/.env",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Run evaluation",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "evaluation.run_eval",
+      "envFile": "${workspaceFolder}/.env",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Build labeling sheet",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "evaluation.build_label_sheet",
+      "envFile": "${workspaceFolder}/.env",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Run tests (pytest)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pytest",
+      "args": [
+        "-q",
+        "tests"
+      ],
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}

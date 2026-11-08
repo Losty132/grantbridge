@@ -1,0 +1,183 @@
+{
+  "agency_id": "boe",
+  "name": "NC State Board of Education",
+  "short_name": "SBE",
+  "plan": {
+    "title": "NC State Board of Education Strategic Plan",
+    "years": "2020-2027",
+    "url": "https://www.osbm.nc.gov/strategic-plan-board-education/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "To use its constitutional authority to guard and maintain the right of a sound, basic education for every child in North Carolina Public Schools.",
+    "citation": {
+      "document": "NC State Board of Education Strategic Plan",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/strategic-plan-board-education/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Eliminate opportunity gaps",
+    "Improve school and district performance",
+    "Increase educator preparedness"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "SBE-I.1-I.2",
+      "goal_id": "I",
+      "goal_title": "Eliminate opportunity gaps",
+      "text": "Reduce exclusionary discipline and improve school climate, including more school-based mental health professionals.",
+      "keywords": [
+        "school climate",
+        "student mental health",
+        "school-based mental health",
+        "positive behavior"
+      ],
+      "citation": {
+        "document": "NC State Board of Education Strategic Plan",
+        "section": "Goal I, Objective I.1-I.2",
+        "url": "https://www.osbm.nc.gov/strategic-plan-board-education/download?attachment"
+      }
+    },
+    {
+      "id": "SBE-I.3",
+      "goal_id": "I",
+      "goal_title": "Eliminate opportunity gaps",
+      "text": "Increase 4-year-old enrollment in NC Pre-K from 22% to 34%.",
+      "keywords": [
+        "pre-K",
+        "early childhood education",
+        "preschool"
+      ],
+      "citation": {
+        "document": "NC State Board of Education Strategic Plan",
+        "section": "Goal I, Objective I.3",
+        "url": "https://www.osbm.nc.gov/strategic-plan-board-education/download?attachment"
+      }
+    },
+    {
+      "id": "SBE-I.4-I.5",
+      "goal_id": "I",
+      "goal_title": "Eliminate opportunity gaps",
+      "text": "Decrease dropout rates and increase postsecondary enrollment, employment or enlistment.",
+      "keywords": [
+        "dropout prevention",
+        "college and career readiness",
+        "postsecondary access"
+      ],
+      "citation": {
+        "document": "NC State Board of Education Strategic Plan",
+        "section": "Goal I, Objective I.4-I.5",
+        "url": "https://www.osbm.nc.gov/strategic-plan-board-education/download?attachment"
+      }
+    },
+    {
+      "id": "SBE-I.6",
+      "goal_id": "I",
+      "goal_title": "Eliminate opportunity gaps",
+      "text": "Increase the number of educators of color in North Carolina schools.",
+      "keywords": [
+        "teacher diversity",
+        "educator recruitment"
+      ],
+      "citation": {
+        "document": "NC State Board of Education Strategic Plan",
+        "section": "Goal I, Objective I.6",
+        "url": "https://www.osbm.nc.gov/strategic-plan-board-education/download?attachment"
+      }
+    },
+    {
+      "id": "SBE-II.2-II.6",
+      "goal_id": "II",
+      "goal_title": "Improve school and district performance",
+      "text": "Raise math, reading and science proficiency and ESSA interim progress across subgroups, including 3rd-grade reading.",
+      "keywords": [
+        "literacy",
+        "mathematics",
+        "science education",
+        "STEM",
+        "student achievement",
+        "ESSA"
+      ],
+      "citation": {
+        "document": "NC State Board of Education Strategic Plan",
+        "section": "Goal II, Objective II.2-II.6",
+        "url": "https://www.osbm.nc.gov/strategic-plan-board-education/download?attachment"
+      }
+    },
+    {
+      "id": "SBE-II.7-II.9",
+      "goal_id": "II",
+      "goal_title": "Improve school and district performance",
+      "text": "Improve low-performing schools, charter school performance and principal effectiveness.",
+      "keywords": [
+        "school improvement",
+        "low-performing schools",
+        "charter schools",
+        "school leadership"
+      ],
+      "citation": {
+        "document": "NC State Board of Education Strategic Plan",
+        "section": "Goal II, Objective II.7-II.9",
+        "url": "https://www.osbm.nc.gov/strategic-plan-board-education/download?attachment"
+      }
+    },
+    {
+      "id": "SBE-III.2-III.3",
+      "goal_id": "III",
+      "goal_title": "Increase educator preparedness",
+      "text": "Support educators throughout their careers and strengthen educator preparation partnerships with districts.",
+      "keywords": [
+        "educator preparation",
+        "teacher development",
+        "teacher pipeline"
+      ],
+      "citation": {
+        "document": "NC State Board of Education Strategic Plan",
+        "section": "Goal III, Objective III.2-III.3",
+        "url": "https://www.osbm.nc.gov/strategic-plan-board-education/download?attachment"
+      }
+    },
+    {
+      "id": "SBE-III.4",
+      "goal_id": "III",
+      "goal_title": "Increase educator preparedness",
+      "text": "Increase school connections with the community.",
+      "keywords": [
+        "family engagement",
+        "community schools"
+      ],
+      "citation": {
+        "document": "NC State Board of Education Strategic Plan",
+        "section": "Goal III, Objective III.4",
+        "url": "https://www.osbm.nc.gov/strategic-plan-board-education/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "K-12",
+    "pre-K",
+    "school climate",
+    "educator preparation",
+    "student achievement",
+    "charter schools"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99",
+    "05"
+  ],
+  "preferred_funders": [
+    "ED",
+    "Department of Education",
+    "HHS",
+    "NSF",
+    "SAMHSA"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

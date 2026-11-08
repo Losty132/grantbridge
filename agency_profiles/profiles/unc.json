@@ -1,0 +1,193 @@
+{
+  "agency_id": "unc",
+  "name": "University of North Carolina System",
+  "short_name": "UNC System",
+  "plan": {
+    "title": "UNC System Strategic Plan 2023-2027",
+    "years": "2023-2027",
+    "url": "https://www.osbm.nc.gov/strategic-plan-unc/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "The 17-institution public university system serving North Carolina through education, research and service.",
+    "citation": {
+      "document": "UNC System Strategic Plan 2023-2027",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/strategic-plan-unc/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Contribute to the state's critical workforces",
+    "Improve student mental health",
+    "Increase access for underserved populations",
+    "Increase affordability",
+    "Increase military partnerships",
+    "Increase research productivity",
+    "Increase undergraduate student success",
+    "Progress on equity gaps"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "UNC-1",
+      "goal_id": "1",
+      "goal_title": "Increase access for underserved populations",
+      "text": "Increase enrollment of adult learners, low-income and rural students.",
+      "keywords": [
+        "college access",
+        "adult learners",
+        "rural students",
+        "TRIO",
+        "first-generation"
+      ],
+      "citation": {
+        "document": "UNC System Strategic Plan 2023-2027",
+        "section": "Goal 1, Objective 1",
+        "url": "https://www.osbm.nc.gov/strategic-plan-unc/download?attachment"
+      }
+    },
+    {
+      "id": "UNC-2",
+      "goal_id": "2",
+      "goal_title": "Increase undergraduate student success",
+      "text": "Raise four-year graduation rates and undergraduate success.",
+      "keywords": [
+        "student success",
+        "retention",
+        "graduation rates"
+      ],
+      "citation": {
+        "document": "UNC System Strategic Plan 2023-2027",
+        "section": "Goal 2, Objective 2",
+        "url": "https://www.osbm.nc.gov/strategic-plan-unc/download?attachment"
+      }
+    },
+    {
+      "id": "UNC-3",
+      "goal_id": "3",
+      "goal_title": "Progress on equity gaps",
+      "text": "Close graduation gaps by race/ethnicity and income.",
+      "keywords": [
+        "equity gaps",
+        "underrepresented students",
+        "Pell"
+      ],
+      "citation": {
+        "document": "UNC System Strategic Plan 2023-2027",
+        "section": "Goal 3, Objective 3",
+        "url": "https://www.osbm.nc.gov/strategic-plan-unc/download?attachment"
+      }
+    },
+    {
+      "id": "UNC-5",
+      "goal_id": "5",
+      "goal_title": "Improve student mental health",
+      "text": "Improve student mental health, including shared telehealth services.",
+      "keywords": [
+        "student mental health",
+        "telehealth",
+        "campus suicide prevention"
+      ],
+      "citation": {
+        "document": "UNC System Strategic Plan 2023-2027",
+        "section": "Goal 5, Objective 5",
+        "url": "https://www.osbm.nc.gov/strategic-plan-unc/download?attachment"
+      }
+    },
+    {
+      "id": "UNC-6",
+      "goal_id": "6",
+      "goal_title": "Increase affordability",
+      "text": "Keep a UNC degree affordable for North Carolina families.",
+      "keywords": [
+        "affordability",
+        "financial aid"
+      ],
+      "citation": {
+        "document": "UNC System Strategic Plan 2023-2027",
+        "section": "Goal 6, Objective 6",
+        "url": "https://www.osbm.nc.gov/strategic-plan-unc/download?attachment"
+      }
+    },
+    {
+      "id": "UNC-8",
+      "goal_id": "8",
+      "goal_title": "Contribute to the state's critical workforces",
+      "text": "Increase health sciences, STEM and teacher degrees for critical workforces.",
+      "keywords": [
+        "STEM",
+        "health sciences workforce",
+        "nursing",
+        "teacher preparation"
+      ],
+      "citation": {
+        "document": "UNC System Strategic Plan 2023-2027",
+        "section": "Goal 8, Objective 8",
+        "url": "https://www.osbm.nc.gov/strategic-plan-unc/download?attachment"
+      }
+    },
+    {
+      "id": "UNC-9",
+      "goal_id": "9",
+      "goal_title": "Increase research productivity",
+      "text": "Increase sponsored research and licensing income that drives economic development.",
+      "keywords": [
+        "research",
+        "sponsored research",
+        "innovation",
+        "technology transfer",
+        "R&D"
+      ],
+      "citation": {
+        "document": "UNC System Strategic Plan 2023-2027",
+        "section": "Goal 9, Objective 9",
+        "url": "https://www.osbm.nc.gov/strategic-plan-unc/download?attachment"
+      }
+    },
+    {
+      "id": "UNC-10",
+      "goal_id": "10",
+      "goal_title": "Increase military partnerships",
+      "text": "Expand partnerships with the military and military-affiliated students.",
+      "keywords": [
+        "military partnerships",
+        "defense research",
+        "veterans education"
+      ],
+      "citation": {
+        "document": "UNC System Strategic Plan 2023-2027",
+        "section": "Goal 10, Objective 10",
+        "url": "https://www.osbm.nc.gov/strategic-plan-unc/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "higher education",
+    "research",
+    "STEM",
+    "student mental health",
+    "college access",
+    "health sciences workforce"
+  ],
+  "eligible_applicant_codes": [
+    "06",
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "NSF",
+    "NIH",
+    "ED",
+    "Department of Education",
+    "DOD",
+    "DOE",
+    "NASA",
+    "NOAA",
+    "USDA"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

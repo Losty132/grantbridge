@@ -1,0 +1,172 @@
+{
+  "agency_id": "doj",
+  "name": "NC Department of Justice",
+  "short_name": "DOJ",
+  "plan": {
+    "title": "NC Department of Justice Strategic Plan 2025-2027",
+    "years": "2025-2027",
+    "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doj/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "Protects the people of North Carolina through its work to prevent crime and support law enforcement, to safeguard consumers, and to defend the State, its people, and their constitutional rights.",
+    "citation": {
+      "document": "NC Department of Justice Strategic Plan 2025-2027",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doj/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Fight organized crime",
+    "Law enforcement training, licensure and certification",
+    "Provide excellent legal counsel and defense to the State",
+    "Safeguard consumers",
+    "Use science to pursue justice and promote public safety"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "DOJ-1.1",
+      "goal_id": "1",
+      "goal_title": "Provide excellent legal counsel and defense to the State",
+      "text": "Ensure each state agency, board and commission has the best legal representation and advice.",
+      "keywords": [
+        "legal services",
+        "state legal counsel"
+      ],
+      "citation": {
+        "document": "NC Department of Justice Strategic Plan 2025-2027",
+        "section": "Goal 1, Objective 1.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doj/download?attachment"
+      }
+    },
+    {
+      "id": "DOJ-2.1",
+      "goal_id": "2",
+      "goal_title": "Law enforcement training, licensure and certification",
+      "text": "Provide officer training and standards that focus on 21st Century policing.",
+      "keywords": [
+        "law enforcement training",
+        "police training",
+        "21st century policing"
+      ],
+      "citation": {
+        "document": "NC Department of Justice Strategic Plan 2025-2027",
+        "section": "Goal 2, Objective 2.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doj/download?attachment"
+      }
+    },
+    {
+      "id": "DOJ-2.4",
+      "goal_id": "2",
+      "goal_title": "Law enforcement training, licensure and certification",
+      "text": "Offer a free accreditation program to help local law enforcement agencies adopt the highest professional standards.",
+      "keywords": [
+        "law enforcement accreditation",
+        "local law enforcement",
+        "professional standards"
+      ],
+      "citation": {
+        "document": "NC Department of Justice Strategic Plan 2025-2027",
+        "section": "Goal 2, Objective 2.4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doj/download?attachment"
+      }
+    },
+    {
+      "id": "DOJ-3.1-3.4",
+      "goal_id": "3",
+      "goal_title": "Use science to pursue justice and promote public safety",
+      "text": "Recruit and retain crime lab scientists, maintain scientific equipment and reduce cases pending examination by 10%.",
+      "keywords": [
+        "crime laboratory",
+        "forensic science",
+        "DNA backlog",
+        "Coverdell",
+        "forensic analysis"
+      ],
+      "citation": {
+        "document": "NC Department of Justice Strategic Plan 2025-2027",
+        "section": "Goal 3, Objective 3.1-3.4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doj/download?attachment"
+      }
+    },
+    {
+      "id": "DOJ-4.1-4.2",
+      "goal_id": "4",
+      "goal_title": "Safeguard consumers",
+      "text": "Enforce consumer protection laws and educate the public to detect and avoid scams, fraud and predatory practices.",
+      "keywords": [
+        "consumer protection",
+        "fraud prevention",
+        "elder fraud",
+        "scams"
+      ],
+      "citation": {
+        "document": "NC Department of Justice Strategic Plan 2025-2027",
+        "section": "Goal 4, Objective 4.1-4.2",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doj/download?attachment"
+      }
+    },
+    {
+      "id": "DOJ-5.2-5.4",
+      "goal_id": "5",
+      "goal_title": "Fight organized crime",
+      "text": "Address large-scale drug trafficking and disrupt the supply of methamphetamine and fentanyl through multidisciplinary teams.",
+      "keywords": [
+        "drug trafficking",
+        "fentanyl",
+        "methamphetamine",
+        "opioid",
+        "organized crime",
+        "money laundering"
+      ],
+      "citation": {
+        "document": "NC Department of Justice Strategic Plan 2025-2027",
+        "section": "Goal 5, Objective 5.2-5.4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doj/download?attachment"
+      }
+    },
+    {
+      "id": "DOJ-5.5",
+      "goal_id": "5",
+      "goal_title": "Fight organized crime",
+      "text": "Tackle law enforcement officer shortages statewide.",
+      "keywords": [
+        "law enforcement recruitment",
+        "officer shortage"
+      ],
+      "citation": {
+        "document": "NC Department of Justice Strategic Plan 2025-2027",
+        "section": "Goal 5, Objective 5.5",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doj/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "law enforcement training",
+    "crime laboratory",
+    "forensic science",
+    "drug trafficking",
+    "consumer protection",
+    "fentanyl"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "DOJ",
+    "Department of Justice",
+    "BJA",
+    "OJP",
+    "NIJ",
+    "COPS",
+    "ONDCP",
+    "HIDTA"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

@@ -1,0 +1,130 @@
+{
+  "agency_id": "oah",
+  "name": "NC Office of Administrative Hearings",
+  "short_name": "OAH",
+  "plan": {
+    "title": "NC Office of Administrative Hearings Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-oah/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "To serve the citizens of North Carolina with integrity, quality, and efficiency by providing an independent, neutral forum for the prompt and impartial resolution of contested cases.",
+    "citation": {
+      "document": "NC Office of Administrative Hearings Strategic Plan 2025-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-oah/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Civil Rights: discrimination investigations",
+    "Civil Rights: training",
+    "Hearings: Medicaid contested cases",
+    "Hearings: correct decisions within statutory requirements",
+    "Rules publication and review"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "OAH-H1.1",
+      "goal_id": "H1",
+      "goal_title": "Hearings: correct decisions within statutory requirements",
+      "text": "Issue contested case decisions consistent with statutory and case law.",
+      "keywords": [
+        "administrative law",
+        "contested cases"
+      ],
+      "citation": {
+        "document": "NC Office of Administrative Hearings Strategic Plan 2025-2029",
+        "section": "Goal H1, Objective H1.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-oah/download?attachment"
+      }
+    },
+    {
+      "id": "OAH-H4.1-4.2",
+      "goal_id": "H4",
+      "goal_title": "Hearings: Medicaid contested cases",
+      "text": "Dispose of 90% of Medicaid contested cases within 90 days, within federal and statutory deadlines.",
+      "keywords": [
+        "Medicaid appeals",
+        "fair hearings",
+        "Medicaid"
+      ],
+      "citation": {
+        "document": "NC Office of Administrative Hearings Strategic Plan 2025-2029",
+        "section": "Goal H4, Objective H4.1-4.2",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-oah/download?attachment"
+      }
+    },
+    {
+      "id": "OAH-R1-R3",
+      "goal_id": "R1",
+      "goal_title": "Rules publication and review",
+      "text": "Publish agency rules on time, support Rules Review Commission review and provide rulemaking training.",
+      "keywords": [
+        "rulemaking",
+        "regulatory review"
+      ],
+      "citation": {
+        "document": "NC Office of Administrative Hearings Strategic Plan 2025-2029",
+        "section": "Goal R1, Objective R1-R3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-oah/download?attachment"
+      }
+    },
+    {
+      "id": "OAH-C1.1-C3.3",
+      "goal_id": "C1",
+      "goal_title": "Civil Rights: discrimination investigations",
+      "text": "Investigate Title VII, Title VIII, ADEA, GINA and ADA discrimination charges promptly and consistently.",
+      "keywords": [
+        "fair housing",
+        "employment discrimination",
+        "civil rights",
+        "Fair Housing Assistance Program",
+        "FHAP"
+      ],
+      "citation": {
+        "document": "NC Office of Administrative Hearings Strategic Plan 2025-2029",
+        "section": "Goal C1, Objective C1.1-C3.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-oah/download?attachment"
+      }
+    },
+    {
+      "id": "OAH-C4.1",
+      "goal_id": "C4",
+      "goal_title": "Civil Rights: training",
+      "text": "Provide fair employment and fair housing training to Human Relations Commissioners, staff and the public.",
+      "keywords": [
+        "fair housing education",
+        "fair employment",
+        "civil rights training"
+      ],
+      "citation": {
+        "document": "NC Office of Administrative Hearings Strategic Plan 2025-2029",
+        "section": "Goal C4, Objective C4.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-oah/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "fair housing",
+    "civil rights",
+    "employment discrimination",
+    "administrative hearings",
+    "Medicaid appeals"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "HUD",
+    "EEOC",
+    "CMS"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

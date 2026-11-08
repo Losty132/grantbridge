@@ -1,0 +1,60 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "1. Setup: create .venv and install",
+      "type": "shell",
+      "command": "python3 -m venv .venv && .venv/bin/pip install -r requirements-dev.txt && ([ -f .env ] || cp .env.example .env)",
+      "windows": { "command": "py -m venv .venv; .venv\\Scripts\\pip install -r requirements-dev.txt; if (!(Test-Path .env)) { Copy-Item .env.example .env }" },
+      "problemMatcher": []
+    },
+    {
+      "label": "2. Refresh data from Grants.gov",
+      "type": "shell",
+      "command": ".venv/bin/python -m data_retrieval.refresh",
+      "windows": { "command": ".venv\\Scripts\\python -m data_retrieval.refresh" },
+      "problemMatcher": []
+    },
+    {
+      "label": "3. Run app",
+      "type": "shell",
+      "command": ".venv/bin/python -m flask --app web.server run --port 8000",
+      "windows": { "command": ".venv\\Scripts\\python -m flask --app web.server run --port 8000" },
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "4. Run tests",
+      "type": "shell",
+      "command": ".venv/bin/python -m pytest -q tests",
+      "windows": { "command": ".venv\\Scripts\\python -m pytest -q tests" },
+      "group": "test",
+      "problemMatcher": []
+    },
+    {
+      "label": "5. Run evaluation",
+      "type": "shell",
+      "command": ".venv/bin/python -m evaluation.run_eval",
+      "windows": { "command": ".venv\\Scripts\\python -m evaluation.run_eval" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Azure: first-time setup + deploy",
+      "type": "shell",
+      "command": "bash deploy/azure_setup.sh",
+      "problemMatcher": []
+    },
+    {
+      "label": "Azure: update after code changes",
+      "type": "shell",
+      "command": "bash deploy/update.sh",
+      "problemMatcher": []
+    },
+    {
+      "label": "Azure: status (URL, job runs, logs)",
+      "type": "shell",
+      "command": "bash deploy/status.sh",
+      "problemMatcher": []
+    }
+  ]
+}

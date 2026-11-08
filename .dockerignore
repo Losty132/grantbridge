@@ -1,0 +1,13 @@
+.git
+.venv
+venv
+.vscode
+__pycache__
+*.pyc
+data/
+.env
+tests/
+evaluation/results/*.json
+evaluation/results/*.md
+drafts/
+*.zip

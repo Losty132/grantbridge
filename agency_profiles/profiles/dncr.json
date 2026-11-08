@@ -1,0 +1,416 @@
+{
+  "agency_id": "dncr",
+  "name": "NC Department of Natural and Cultural Resources",
+  "short_name": "DNCR",
+  "plan": {
+    "title": "NC DNCR Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open",
+    "retrieved": "2026-11-06"
+  },
+  "mission": {
+    "text": "We enrich people's lives through education and stewardship of North Carolina's natural and cultural resources.",
+    "citation": {
+      "document": "NC DNCR Strategic Plan 2025-2029",
+      "section": "Mission",
+      "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+    }
+  },
+  "responsibilities": [
+    "Operates state parks, recreation areas, trails and natural areas, the NC Zoo, aquariums, and state museums",
+    "Runs the State Library and State Archives",
+    "Supports the arts through the NC Arts Council",
+    "Historic preservation and archaeology",
+    "Land and water conservation"
+  ],
+  "program_priorities": [
+    "Education across DNCR sites",
+    "Sites as local economic anchors",
+    "Preservation and access",
+    "America 250",
+    "Hurricane Helene recovery and climate resilience"
+  ],
+  "operating_programs": [
+    {
+      "name": "Sites and collections",
+      "description": "28 historic sites, eight history museums, two art museums, five science museums, four aquariums, 35 state parks, four recreation areas, state trails and natural areas, and the North Carolina Zoo.",
+      "keywords": [
+        "museum",
+        "historic site",
+        "state park",
+        "aquarium",
+        "zoo",
+        "trails"
+      ],
+      "sources": [
+        {
+          "title": "NC DNCR Strategic Plan 2025-2029",
+          "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+        }
+      ]
+    },
+    {
+      "name": "State Library and State Archives",
+      "description": "Library services statewide and the State Archives.",
+      "keywords": [
+        "library",
+        "libraries",
+        "archives",
+        "digitization"
+      ],
+      "sources": [
+        {
+          "title": "NC DNCR Strategic Plan 2025-2029",
+          "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+        }
+      ]
+    },
+    {
+      "name": "NC Arts Council, State Historic Preservation Office, Natural Heritage Program, Land and Water Fund",
+      "description": "Arts grants and programming, historic preservation, natural heritage inventory, land and water conservation funding.",
+      "keywords": [
+        "arts",
+        "historic preservation",
+        "natural heritage",
+        "conservation",
+        "land acquisition"
+      ],
+      "sources": [
+        {
+          "title": "NC DNCR Strategic Plan 2025-2029",
+          "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+        }
+      ]
+    }
+  ],
+  "objectives": [
+    {
+      "id": "DNCR-1.1",
+      "goal_id": "1",
+      "goal_title": "Educational excellence and innovation",
+      "text": "Support and retain K-12 educators through professional development, and secure permanent program funding.",
+      "keywords": [
+        "teacher professional development",
+        "educators"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-1.2",
+      "goal_id": "1",
+      "goal_title": "Educational excellence and innovation",
+      "text": "Increase access to DNCR sites through field trip funds and support services, aiming to reach all 100 counties.",
+      "keywords": [
+        "field trips",
+        "access"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.2",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-1.3",
+      "goal_id": "1",
+      "goal_title": "Educational excellence and innovation",
+      "text": "Grow classroom engagement through curriculum support, classroom visits, virtual field trips, and extracurricular programming.",
+      "keywords": [
+        "curriculum",
+        "STEM education",
+        "informal education"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-1.4",
+      "goal_id": "1",
+      "goal_title": "Educational excellence and innovation",
+      "text": "Improve site-based education through exhibit updates, interactive programming, and updated lesson plans.",
+      "keywords": [
+        "exhibits",
+        "museum education"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-1.5",
+      "goal_id": "1",
+      "goal_title": "Educational excellence and innovation",
+      "text": "Support lifelong learning by increasing digital educational access and expanding professional development for resource professionals.",
+      "keywords": [
+        "digital access",
+        "lifelong learning"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.5",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-2.2",
+      "goal_id": "2",
+      "goal_title": "Local economies and community anchors",
+      "text": "Build local partnerships with tourism boards, planning agencies, businesses, and nearby DNCR sites.",
+      "keywords": [
+        "tourism",
+        "partnerships"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.2",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-2.3",
+      "goal_id": "2",
+      "goal_title": "Local economies and community anchors",
+      "text": "Support local economies through arts, music, history, libraries, science, and outdoor recreation grants and programming reaching all 100 counties.",
+      "keywords": [
+        "arts",
+        "music",
+        "history",
+        "libraries",
+        "outdoor recreation"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-2.4",
+      "goal_id": "2",
+      "goal_title": "Local economies and community anchors",
+      "text": "Provide broadband access at all sites and expand digital skills and literacy statewide.",
+      "keywords": [
+        "broadband",
+        "digital literacy"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-3.1",
+      "goal_id": "3",
+      "goal_title": "Preservation and access",
+      "text": "Keep capital projects on schedule and within budget, including renovations and exhibit upgrades.",
+      "keywords": [
+        "capital projects",
+        "renovation"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-3.2",
+      "goal_id": "3",
+      "goal_title": "Preservation and access",
+      "text": "Lead research and storytelling for America's 250th (A250) anniversary.",
+      "keywords": [
+        "America 250",
+        "semiquincentennial",
+        "history"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.2",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-3.4",
+      "goal_id": "3",
+      "goal_title": "Preservation and access",
+      "text": "Publish new digital resources from all public-facing divisions.",
+      "keywords": [
+        "digital collections",
+        "digitization"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-3.5",
+      "goal_id": "3",
+      "goal_title": "Preservation and access",
+      "text": "Expand access to green spaces so all residents, including underserved communities, can reach free outdoor recreation.",
+      "keywords": [
+        "green space",
+        "parks",
+        "outdoor recreation",
+        "trails"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.5",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-3.6",
+      "goal_id": "3",
+      "goal_title": "Preservation and access",
+      "text": "Expand restoration and preservation footprint and improve natural and historical resource data management.",
+      "keywords": [
+        "historic preservation",
+        "ecosystem restoration",
+        "habitat",
+        "land conservation"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.6",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-4.1",
+      "goal_id": "4",
+      "goal_title": "Operational efficiency, collaboration, and customer service",
+      "text": "Analyze responsible AI use in operations and launch AI pilot programs.",
+      "keywords": [
+        "artificial intelligence"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-4.6",
+      "goal_id": "4",
+      "goal_title": "Operational efficiency, collaboration, and customer service",
+      "text": "Provide meaningful public participation in planning, including outreach to underserved groups and expanded language access.",
+      "keywords": [
+        "language access",
+        "public participation"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4.6",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-5.1",
+      "goal_id": "5",
+      "goal_title": "Hurricane Helene recovery and climate resilience",
+      "text": "Restore Helene-impacted sites to recovered and operational status.",
+      "keywords": [
+        "Hurricane Helene",
+        "disaster recovery"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 5, Objective 5.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-5.2",
+      "goal_id": "5",
+      "goal_title": "Hurricane Helene recovery and climate resilience",
+      "text": "Support local economic recovery in western NC through grants and technical assistance for arts, libraries, and outdoor tourism.",
+      "keywords": [
+        "western North Carolina",
+        "recovery",
+        "arts",
+        "libraries"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 5, Objective 5.2",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-5.3",
+      "goal_id": "5",
+      "goal_title": "Hurricane Helene recovery and climate resilience",
+      "text": "Complete a statewide climate hazard assessment of DNCR sites and integrate climate resilience into planning.",
+      "keywords": [
+        "climate resilience",
+        "hazard assessment"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 5, Objective 5.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    },
+    {
+      "id": "DNCR-5.4",
+      "goal_id": "5",
+      "goal_title": "Hurricane Helene recovery and climate resilience",
+      "text": "Manage statewide climate mitigation and ecosystem resilience, including Atlantic Conservation Coalition funds.",
+      "keywords": [
+        "climate mitigation",
+        "ecosystem resilience",
+        "conservation"
+      ],
+      "citation": {
+        "document": "NC DNCR Strategic Plan 2025-2029",
+        "section": "Goal 5, Objective 5.4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dncr/open"
+      }
+    }
+  ],
+  "search_terms": [
+    "historic preservation",
+    "museum",
+    "library",
+    "arts",
+    "outdoor recreation",
+    "land conservation",
+    "humanities",
+    "archives"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "NEA",
+    "National Endowment for the Arts",
+    "NEH",
+    "National Endowment for the Humanities",
+    "IMLS",
+    "Institute of Museum",
+    "DOI-NPS",
+    "National Park Service",
+    "DOI-FWS",
+    "Fish and Wildlife",
+    "DOC-NOAA",
+    "NSF"
+  ],
+  "wording_note": "Objective wording below is a close summary of the plan text, retrieved from the OSBM-posted plan on 2026-11-06. Check the exact wording in the cited section before quoting it externally.",
+  "reviewed_by": "",
+  "profile_version": "2.0"
+}

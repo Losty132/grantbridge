@@ -1,0 +1,124 @@
+{
+  "agency_id": "osa",
+  "name": "NC Office of the State Auditor",
+  "short_name": "OSA",
+  "plan": {
+    "title": "NC Office of the State Auditor Strategic Plan 2023-2025",
+    "years": "2023-2025",
+    "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-osa/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "The State's independent auditor, providing unbiased audit and investigative reports that improve government operations and services.",
+    "citation": {
+      "document": "NC Office of the State Auditor Strategic Plan 2023-2025",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-osa/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Improve cost effectiveness",
+    "Improve government operations and services",
+    "Improve stakeholder awareness",
+    "Increase organizational agility",
+    "Increase timely, impactful audits and investigations"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "OSA-1",
+      "goal_id": "1",
+      "goal_title": "Improve government operations and services",
+      "text": "Provide decision makers with timely, impactful audits and investigations.",
+      "keywords": [
+        "audit",
+        "program integrity",
+        "single audit"
+      ],
+      "citation": {
+        "document": "NC Office of the State Auditor Strategic Plan 2023-2025",
+        "section": "Goal 1, Objective 1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-osa/download?attachment"
+      }
+    },
+    {
+      "id": "OSA-2",
+      "goal_id": "2",
+      "goal_title": "Improve stakeholder awareness",
+      "text": "Increase citizen and stakeholder awareness of audit findings.",
+      "keywords": [
+        "transparency",
+        "public reporting"
+      ],
+      "citation": {
+        "document": "NC Office of the State Auditor Strategic Plan 2023-2025",
+        "section": "Goal 2, Objective 2",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-osa/download?attachment"
+      }
+    },
+    {
+      "id": "OSA-3",
+      "goal_id": "3",
+      "goal_title": "Increase timely, impactful audits and investigations",
+      "text": "Issue audits on target dates and identify waste, violations and improvements.",
+      "keywords": [
+        "fraud waste and abuse",
+        "investigations"
+      ],
+      "citation": {
+        "document": "NC Office of the State Auditor Strategic Plan 2023-2025",
+        "section": "Goal 3, Objective 3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-osa/download?attachment"
+      }
+    },
+    {
+      "id": "OSA-4",
+      "goal_id": "4",
+      "goal_title": "Improve cost effectiveness",
+      "text": "Monitor costs and increase impactful audit hours.",
+      "keywords": [
+        "cost effectiveness"
+      ],
+      "citation": {
+        "document": "NC Office of the State Auditor Strategic Plan 2023-2025",
+        "section": "Goal 4, Objective 4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-osa/download?attachment"
+      }
+    },
+    {
+      "id": "OSA-6",
+      "goal_id": "6",
+      "goal_title": "Increase organizational agility",
+      "text": "Build a multidiscipline workforce able to pivot in the face of change.",
+      "keywords": [
+        "auditor workforce",
+        "training"
+      ],
+      "citation": {
+        "document": "NC Office of the State Auditor Strategic Plan 2023-2025",
+        "section": "Goal 6, Objective 6",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-osa/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "government auditing",
+    "fraud waste and abuse",
+    "single audit",
+    "program integrity"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "GAO",
+    "HHS",
+    "OIG"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

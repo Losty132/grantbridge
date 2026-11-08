@@ -1,0 +1,164 @@
+{
+  "agency_id": "oshr",
+  "name": "NC Office of State Human Resources",
+  "short_name": "OSHR",
+  "plan": {
+    "title": "OSHR 2025-2029 Strategic Plan",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-oshr/open",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "Partners with and provides expertise to state agencies and programs to recruit, support, and retain a public service workforce.",
+    "citation": {
+      "document": "OSHR 2025-2029 Strategic Plan",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-oshr/open"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Retain and support current employees",
+    "Strengthen recruitment and access to state employment",
+    "Transform state HR through modernization and collaboration"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "OSHR-1.a",
+      "goal_id": "1",
+      "goal_title": "Strengthen recruitment and access to state employment",
+      "text": "Simplify and modernize state HR practices to transform recruitment, application and hiring and reduce time to hire.",
+      "keywords": [
+        "recruitment",
+        "hiring",
+        "public sector workforce"
+      ],
+      "citation": {
+        "document": "OSHR 2025-2029 Strategic Plan",
+        "section": "Goal 1, Objective 1.a",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-oshr/open"
+      }
+    },
+    {
+      "id": "OSHR-1.b",
+      "goal_id": "1",
+      "goal_title": "Strengthen recruitment and access to state employment",
+      "text": "Increase access to state employment and employee services in rural North Carolina, including western and eastern NC offices.",
+      "keywords": [
+        "rural",
+        "workforce access",
+        "western North Carolina"
+      ],
+      "citation": {
+        "document": "OSHR 2025-2029 Strategic Plan",
+        "section": "Goal 1, Objective 1.b",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-oshr/open"
+      }
+    },
+    {
+      "id": "OSHR-1.c",
+      "goal_id": "1",
+      "goal_title": "Strengthen recruitment and access to state employment",
+      "text": "Expand early career access through internships, fellowships and apprenticeships to build the state workforce pipeline.",
+      "keywords": [
+        "apprenticeship",
+        "internship",
+        "fellowship",
+        "workforce pipeline",
+        "registered apprenticeship"
+      ],
+      "citation": {
+        "document": "OSHR 2025-2029 Strategic Plan",
+        "section": "Goal 1, Objective 1.c",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-oshr/open"
+      }
+    },
+    {
+      "id": "OSHR-2.a",
+      "goal_id": "2",
+      "goal_title": "Transform state HR through modernization and collaboration",
+      "text": "Modernize HR policies, systems and data-driven decision-making, including the Workday statewide platform.",
+      "keywords": [
+        "HR modernization",
+        "human capital",
+        "data-driven",
+        "workforce data"
+      ],
+      "citation": {
+        "document": "OSHR 2025-2029 Strategic Plan",
+        "section": "Goal 2, Objective 2.a",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-oshr/open"
+      }
+    },
+    {
+      "id": "OSHR-2.b",
+      "goal_id": "2",
+      "goal_title": "Transform state HR through modernization and collaboration",
+      "text": "Strengthen agency engagement, training and compliance support aligned with updated statutes and systems.",
+      "keywords": [
+        "training",
+        "public administration",
+        "compliance"
+      ],
+      "citation": {
+        "document": "OSHR 2025-2029 Strategic Plan",
+        "section": "Goal 2, Objective 2.b",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-oshr/open"
+      }
+    },
+    {
+      "id": "OSHR-3.a",
+      "goal_id": "3",
+      "goal_title": "Retain and support current employees",
+      "text": "Develop career growth pathways and learning opportunities for state employees, managers and supervisors.",
+      "keywords": [
+        "career pathways",
+        "professional development",
+        "leadership development"
+      ],
+      "citation": {
+        "document": "OSHR 2025-2029 Strategic Plan",
+        "section": "Goal 3, Objective 3.a",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-oshr/open"
+      }
+    },
+    {
+      "id": "OSHR-3.b",
+      "goal_id": "3",
+      "goal_title": "Retain and support current employees",
+      "text": "Expand flexible work, wellness resources and workload strategies that improve employee satisfaction and retention.",
+      "keywords": [
+        "employee wellness",
+        "retention",
+        "mental health",
+        "workplace wellness"
+      ],
+      "citation": {
+        "document": "OSHR 2025-2029 Strategic Plan",
+        "section": "Goal 3, Objective 3.b",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-oshr/open"
+      }
+    }
+  ],
+  "search_terms": [
+    "public sector workforce",
+    "apprenticeship",
+    "workforce development",
+    "internship",
+    "employee wellness"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "DOL",
+    "Department of Labor",
+    "OPM"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

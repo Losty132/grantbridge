@@ -1,0 +1,118 @@
+{
+  "agency_id": "dmva",
+  "name": "NC Department of Military and Veterans Affairs",
+  "short_name": "DMVA",
+  "plan": {
+    "title": "NC Department of Military and Veterans Affairs Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/strategic-plan-dmva/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "To honor and empower service members, veterans, military families, and military communities by fostering strong partnerships with federal, state, local, nonprofit, and private organizations.",
+    "citation": {
+      "document": "NC Department of Military and Veterans Affairs Strategic Plan 2025-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/strategic-plan-dmva/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Invest in our workforce",
+    "Quality care at State Veterans Homes and Cemeteries",
+    "Retain transitioning service members and families in North Carolina",
+    "Strengthen sector collaboration"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "DMVA-1",
+      "goal_id": "1",
+      "goal_title": "Retain transitioning service members and families in North Carolina",
+      "text": "Increase outreach at DoD Transition Assistance Programs so service members and families choose to stay in or return to NC.",
+      "keywords": [
+        "transitioning service members",
+        "military families",
+        "veteran employment"
+      ],
+      "citation": {
+        "document": "NC Department of Military and Veterans Affairs Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dmva/download?attachment"
+      }
+    },
+    {
+      "id": "DMVA-2",
+      "goal_id": "2",
+      "goal_title": "Quality care at State Veterans Homes and Cemeteries",
+      "text": "Modernize State Veterans Homes infrastructure and keep State Veterans Cemeteries worthy of those who served.",
+      "keywords": [
+        "veterans homes",
+        "state veterans cemetery",
+        "veterans health care",
+        "long-term care"
+      ],
+      "citation": {
+        "document": "NC Department of Military and Veterans Affairs Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dmva/download?attachment"
+      }
+    },
+    {
+      "id": "DMVA-3",
+      "goal_id": "3",
+      "goal_title": "Strengthen sector collaboration",
+      "text": "Foster partnerships among government, business, nonprofits and communities to support veterans and military communities.",
+      "keywords": [
+        "defense communities",
+        "military installations",
+        "veterans services",
+        "community partnerships"
+      ],
+      "citation": {
+        "document": "NC Department of Military and Veterans Affairs Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dmva/download?attachment"
+      }
+    },
+    {
+      "id": "DMVA-4",
+      "goal_id": "4",
+      "goal_title": "Invest in our workforce",
+      "text": "Strengthen onboarding and development for NCDMVA and county veterans service office staff.",
+      "keywords": [
+        "veterans service officers",
+        "workforce"
+      ],
+      "citation": {
+        "document": "NC Department of Military and Veterans Affairs Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dmva/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "veterans",
+    "military families",
+    "veterans homes",
+    "veterans cemetery",
+    "defense communities",
+    "transitioning service members"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "VA",
+    "Department of Veterans Affairs",
+    "DOD",
+    "Department of Defense",
+    "OLDCC",
+    "DOL"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

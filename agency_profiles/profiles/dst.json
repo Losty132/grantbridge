@@ -1,0 +1,164 @@
+{
+  "agency_id": "dst",
+  "name": "NC Department of State Treasurer",
+  "short_name": "DST",
+  "plan": {
+    "title": "Department of State Treasurer 2025-2029 Strategic Plan",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dst/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "Provides public leadership in finance, fiscal and health policy through the State Health Plan, Retirement Systems, Investments, State and Local Government Finance and Unclaimed Property.",
+    "citation": {
+      "document": "Department of State Treasurer 2025-2029 Strategic Plan",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dst/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Enhance accountability of department services",
+    "Innovate and modernize operations",
+    "Maximize our talent",
+    "Provide public leadership in finance, fiscal and health policy"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "DST-1.a",
+      "goal_id": "1",
+      "goal_title": "Provide public leadership in finance, fiscal and health policy",
+      "text": "Support sound local government finance, debt management and fiscal oversight for North Carolina's local units.",
+      "keywords": [
+        "local government finance",
+        "municipal finance",
+        "fiscal oversight",
+        "water and sewer utility finance"
+      ],
+      "citation": {
+        "document": "Department of State Treasurer 2025-2029 Strategic Plan",
+        "section": "Goal 1, Objective 1.a",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dst/download?attachment"
+      }
+    },
+    {
+      "id": "DST-1.b",
+      "goal_id": "1",
+      "goal_title": "Provide public leadership in finance, fiscal and health policy",
+      "text": "Keep the State Health Plan financially sustainable while improving member health outcomes and reducing costs.",
+      "keywords": [
+        "state health plan",
+        "health care costs",
+        "member health",
+        "health benefits"
+      ],
+      "citation": {
+        "document": "Department of State Treasurer 2025-2029 Strategic Plan",
+        "section": "Goal 1, Objective 1.b",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dst/download?attachment"
+      }
+    },
+    {
+      "id": "DST-1.c",
+      "goal_id": "1",
+      "goal_title": "Provide public leadership in finance, fiscal and health policy",
+      "text": "Protect retirement security and manage pension investments for state and local public employees.",
+      "keywords": [
+        "retirement",
+        "pension",
+        "investment management"
+      ],
+      "citation": {
+        "document": "Department of State Treasurer 2025-2029 Strategic Plan",
+        "section": "Goal 1, Objective 1.c",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dst/download?attachment"
+      }
+    },
+    {
+      "id": "DST-1.d",
+      "goal_id": "1",
+      "goal_title": "Provide public leadership in finance, fiscal and health policy",
+      "text": "Return unclaimed property to owners through proactive outreach and use of data.",
+      "keywords": [
+        "unclaimed property",
+        "consumer outreach",
+        "financial literacy"
+      ],
+      "citation": {
+        "document": "Department of State Treasurer 2025-2029 Strategic Plan",
+        "section": "Goal 1, Objective 1.d",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dst/download?attachment"
+      }
+    },
+    {
+      "id": "DST-2.a",
+      "goal_id": "2",
+      "goal_title": "Enhance accountability of department services",
+      "text": "Enhance accountability, transparency and reporting across department services.",
+      "keywords": [
+        "accountability",
+        "transparency",
+        "financial reporting"
+      ],
+      "citation": {
+        "document": "Department of State Treasurer 2025-2029 Strategic Plan",
+        "section": "Goal 2, Objective 2.a",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dst/download?attachment"
+      }
+    },
+    {
+      "id": "DST-3.a",
+      "goal_id": "3",
+      "goal_title": "Innovate and modernize operations",
+      "text": "Innovate and modernize operations and technology across the department's divisions.",
+      "keywords": [
+        "modernization",
+        "information technology",
+        "cybersecurity"
+      ],
+      "citation": {
+        "document": "Department of State Treasurer 2025-2029 Strategic Plan",
+        "section": "Goal 3, Objective 3.a",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dst/download?attachment"
+      }
+    },
+    {
+      "id": "DST-4.a",
+      "goal_id": "4",
+      "goal_title": "Maximize our talent",
+      "text": "Recruit, develop and retain a skilled financial workforce.",
+      "keywords": [
+        "workforce",
+        "retention",
+        "training"
+      ],
+      "citation": {
+        "document": "Department of State Treasurer 2025-2029 Strategic Plan",
+        "section": "Goal 4, Objective 4.a",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dst/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "local government finance",
+    "state health plan",
+    "retirement security",
+    "financial literacy",
+    "public finance"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "Treasury",
+    "Department of the Treasury",
+    "HHS",
+    "CMS"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

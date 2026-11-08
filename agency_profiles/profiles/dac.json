@@ -1,0 +1,200 @@
+{
+  "agency_id": "dac",
+  "name": "NC Department of Adult Correction",
+  "short_name": "DAC",
+  "plan": {
+    "title": "NC Department of Adult Correction Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/strategic-plan-dac/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "Ensure public safety through protection, innovation, and rehabilitation.",
+    "citation": {
+      "document": "NC Department of Adult Correction Strategic Plan 2025-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/strategic-plan-dac/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Grow our workforce",
+    "Modernize correctional healthcare",
+    "Reduce recidivism",
+    "Strengthen safety and security",
+    "Support our employees",
+    "Upgrade infrastructure and technology"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "DAC-1.1-1.4",
+      "goal_id": "1",
+      "goal_title": "Grow our workforce",
+      "text": "Reduce staff vacancies and prioritize recruitment, retention and leadership development.",
+      "keywords": [
+        "correctional workforce",
+        "recruitment",
+        "retention"
+      ],
+      "citation": {
+        "document": "NC Department of Adult Correction Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.1-1.4",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dac/download?attachment"
+      }
+    },
+    {
+      "id": "DAC-2.1",
+      "goal_id": "2",
+      "goal_title": "Support our employees",
+      "text": "Protect the health and wellbeing of correctional employees.",
+      "keywords": [
+        "employee wellness",
+        "officer wellness"
+      ],
+      "citation": {
+        "document": "NC Department of Adult Correction Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.1",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dac/download?attachment"
+      }
+    },
+    {
+      "id": "DAC-3.1-3.4",
+      "goal_id": "3",
+      "goal_title": "Strengthen safety and security",
+      "text": "Secure safety systems, reduce assaults, prevent contraband and prioritize incident command training.",
+      "keywords": [
+        "prison safety",
+        "contraband",
+        "correctional security",
+        "incident command"
+      ],
+      "citation": {
+        "document": "NC Department of Adult Correction Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.1-3.4",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dac/download?attachment"
+      }
+    },
+    {
+      "id": "DAC-4.1-4.4",
+      "goal_id": "4",
+      "goal_title": "Upgrade infrastructure and technology",
+      "text": "Ensure fire suppression and air conditioning in prisons, streamline maintenance and maximize technology.",
+      "keywords": [
+        "correctional facilities",
+        "infrastructure",
+        "technology"
+      ],
+      "citation": {
+        "document": "NC Department of Adult Correction Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4.1-4.4",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dac/download?attachment"
+      }
+    },
+    {
+      "id": "DAC-5.1-5.3",
+      "goal_id": "5",
+      "goal_title": "Modernize correctional healthcare",
+      "text": "Expand integrated healthcare services and reduce dependence on community healthcare.",
+      "keywords": [
+        "correctional health care",
+        "integrated health care",
+        "telehealth"
+      ],
+      "citation": {
+        "document": "NC Department of Adult Correction Strategic Plan 2025-2029",
+        "section": "Goal 5, Objective 5.1-5.3",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dac/download?attachment"
+      }
+    },
+    {
+      "id": "DAC-6.1",
+      "goal_id": "6",
+      "goal_title": "Reduce recidivism",
+      "text": "Increase utilization of rehabilitation programming.",
+      "keywords": [
+        "recidivism",
+        "reentry",
+        "rehabilitation",
+        "Second Chance Act"
+      ],
+      "citation": {
+        "document": "NC Department of Adult Correction Strategic Plan 2025-2029",
+        "section": "Goal 6, Objective 6.1",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dac/download?attachment"
+      }
+    },
+    {
+      "id": "DAC-6.2",
+      "goal_id": "6",
+      "goal_title": "Reduce recidivism",
+      "text": "Prioritize job skill development and apprenticeships for people in custody.",
+      "keywords": [
+        "correctional education",
+        "job skills",
+        "apprenticeship",
+        "workforce reentry"
+      ],
+      "citation": {
+        "document": "NC Department of Adult Correction Strategic Plan 2025-2029",
+        "section": "Goal 6, Objective 6.2",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dac/download?attachment"
+      }
+    },
+    {
+      "id": "DAC-6.3",
+      "goal_id": "6",
+      "goal_title": "Reduce recidivism",
+      "text": "Build community partnerships for reentry.",
+      "keywords": [
+        "community partnerships",
+        "reentry services"
+      ],
+      "citation": {
+        "document": "NC Department of Adult Correction Strategic Plan 2025-2029",
+        "section": "Goal 6, Objective 6.3",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dac/download?attachment"
+      }
+    },
+    {
+      "id": "DAC-6.4",
+      "goal_id": "6",
+      "goal_title": "Reduce recidivism",
+      "text": "Improve mental health and substance use treatment.",
+      "keywords": [
+        "substance use treatment",
+        "mental health",
+        "opioid",
+        "medication assisted treatment"
+      ],
+      "citation": {
+        "document": "NC Department of Adult Correction Strategic Plan 2025-2029",
+        "section": "Goal 6, Objective 6.4",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dac/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "reentry",
+    "recidivism",
+    "correctional education",
+    "substance use treatment",
+    "prison safety"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "DOJ",
+    "Department of Justice",
+    "BJA",
+    "OJP",
+    "SAMHSA",
+    "DOL"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

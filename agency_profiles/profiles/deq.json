@@ -1,0 +1,457 @@
+{
+  "agency_id": "deq",
+  "name": "NC Department of Environmental Quality",
+  "short_name": "DEQ",
+  "plan": {
+    "title": "NC DEQ Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment",
+    "retrieved": "2026-11-06"
+  },
+  "mission": {
+    "text": "Providing science-based environmental stewardship for the health and prosperity of all North Carolinians.",
+    "citation": {
+      "document": "NC DEQ Strategic Plan 2025-2029",
+      "section": "Mission",
+      "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+    }
+  },
+  "responsibilities": [
+    "Regulates and protects water quality, air quality, and land quality (solid and hazardous waste, dam safety)",
+    "Protects coastal resources and marine life through planning, permitting, research and education",
+    "Administers funding for drinking water, wastewater and stormwater infrastructure",
+    "Supports community resilience to natural hazards, flooding and extreme weather"
+  ],
+  "program_priorities": [
+    "PFAS / forever chemicals",
+    "Community restoration and resilience",
+    "Environmental infrastructure",
+    "Hurricane Helene recovery",
+    "Permitting modernization"
+  ],
+  "operating_programs": [
+    {
+      "name": "NC Geological Survey: Landslide Hazards Program",
+      "description": "Landslide inventory and susceptibility mapping, landslide monitoring, landslide risk analysis, and technical assistance to emergency managers and the public in response to landslide events (western North Carolina, including Hurricane Helene response).",
+      "keywords": [
+        "landslide",
+        "landslide hazard",
+        "geologic hazard",
+        "geologic mapping",
+        "slope stability",
+        "debris flow",
+        "hazard mapping",
+        "susceptibility"
+      ],
+      "sources": [
+        {
+          "title": "NCDEQ: Geologic Hazards (NC Geological Survey)",
+          "url": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey/geologic-hazards-and-landslides"
+        },
+        {
+          "title": "GSA 2025 abstract: The NC Geological Survey's Landslide Hazards Program",
+          "url": "https://gsa.confex.com/gsa/2025SE/webprogram/Paper408012.html"
+        },
+        {
+          "title": "WNC Recovery Advisory Committee: landslide mapping recommendation",
+          "url": "https://www.wncrecovery.nc.gov/wnc-advisory-committee-landslide-mapping-recommendation/open"
+        }
+      ]
+    },
+    {
+      "name": "Division of Energy, Mineral and Land Resources: Dam Safety, Stormwater, Erosion and Sedimentation Control, Mining",
+      "description": "Regulates dams (including high-hazard dams), stormwater, erosion and sedimentation control, and mining.",
+      "keywords": [
+        "dam safety",
+        "stormwater",
+        "erosion",
+        "sedimentation",
+        "mining"
+      ],
+      "sources": [
+        {
+          "title": "NCDEQ DEMLR updates",
+          "url": "https://www.deq.nc.gov/demlr-updates/open"
+        }
+      ]
+    }
+  ],
+  "objectives": [
+    {
+      "id": "DEQ-1.A",
+      "goal_id": "1",
+      "goal_title": "Environmental and public health protection",
+      "text": "Sustain and, where possible, enhance water quality through state and federal standards and regulations.",
+      "keywords": [
+        "water quality",
+        "clean water",
+        "watershed",
+        "TMDL",
+        "nonpoint source"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.A",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-1.B",
+      "goal_id": "1",
+      "goal_title": "Environmental and public health protection",
+      "text": "Protect outdoor ambient air quality for public health benefits.",
+      "keywords": [
+        "air quality",
+        "air pollution",
+        "emissions"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.B",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-1.C",
+      "goal_id": "1",
+      "goal_title": "Environmental and public health protection",
+      "text": "Preserve and enhance land quality through solid and hazardous waste management and dam supervision.",
+      "keywords": [
+        "solid waste",
+        "hazardous waste",
+        "dam safety",
+        "brownfields",
+        "superfund",
+        "remediation"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.C",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-1.D",
+      "goal_id": "1",
+      "goal_title": "Environmental and public health protection",
+      "text": "Protect coastal resources and marine life through planning, permitting, research, engagement, and education.",
+      "keywords": [
+        "coastal",
+        "estuary",
+        "marine",
+        "fisheries habitat",
+        "shoreline"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.D",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-1.E",
+      "goal_id": "1",
+      "goal_title": "Environmental and public health protection",
+      "text": "Promote environmental stewardship and sustainable practices through non-regulatory assistance, outreach, and recognition.",
+      "keywords": [
+        "pollution prevention",
+        "recycling",
+        "environmental education"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.E",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-2.A",
+      "goal_id": "2",
+      "goal_title": "Community restoration and resilience",
+      "text": "Coordinate with state and local government agencies on resilience partnerships.",
+      "keywords": [
+        "resilience",
+        "partnership",
+        "local government"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.A",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-2.B",
+      "goal_id": "2",
+      "goal_title": "Community restoration and resilience",
+      "text": "Support community efforts to build resilience to natural hazards and extreme weather.",
+      "keywords": [
+        "natural hazards",
+        "hazard mitigation",
+        "extreme weather",
+        "landslide",
+        "flood",
+        "resilience"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.B",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-2.C",
+      "goal_id": "2",
+      "goal_title": "Community restoration and resilience",
+      "text": "Support community flood resilience using the North Carolina Flood Resiliency Blueprint.",
+      "keywords": [
+        "flood",
+        "flood resilience",
+        "floodplain",
+        "flood mitigation"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.C",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-2.D",
+      "goal_id": "2",
+      "goal_title": "Community restoration and resilience",
+      "text": "Use Departmental resources and programs to address resiliency needs statewide.",
+      "keywords": [
+        "resilience",
+        "climate"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.D",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-3.A",
+      "goal_id": "3",
+      "goal_title": "Forever chemicals (PFAS)",
+      "text": "Identify and notify people at risk of PFAS exposure, and expand scientific knowledge of North Carolina-specific PFAS compounds.",
+      "keywords": [
+        "PFAS",
+        "emerging contaminants",
+        "exposure"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.A",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-3.B",
+      "goal_id": "3",
+      "goal_title": "Forever chemicals (PFAS)",
+      "text": "Protect drinking water through science-based regulatory requirements and nonregulatory actions to prevent PFAS pollution.",
+      "keywords": [
+        "PFAS",
+        "drinking water"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.B",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-3.C",
+      "goal_id": "3",
+      "goal_title": "Forever chemicals (PFAS)",
+      "text": "Clean up existing PFAS contamination, prioritizing sites that impact communities.",
+      "keywords": [
+        "PFAS",
+        "cleanup",
+        "remediation",
+        "contamination"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.C",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-3.D",
+      "goal_id": "3",
+      "goal_title": "Forever chemicals (PFAS)",
+      "text": "Develop a communication strategy for education and engagement with impacted communities and partners.",
+      "keywords": [
+        "community engagement",
+        "risk communication"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.D",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-4.A",
+      "goal_id": "4",
+      "goal_title": "Environmental infrastructure",
+      "text": "Use a unified approach so programs work toward common infrastructure funding and activity goals.",
+      "keywords": [
+        "infrastructure funding"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4.A",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-4.B",
+      "goal_id": "4",
+      "goal_title": "Environmental infrastructure",
+      "text": "Administer funding and programs for reliable, resilient, and viable environmental infrastructure.",
+      "keywords": [
+        "drinking water",
+        "wastewater",
+        "stormwater",
+        "water infrastructure",
+        "lead service line"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4.B",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-4.C",
+      "goal_id": "4",
+      "goal_title": "Environmental infrastructure",
+      "text": "Engage utilities and partners in planning for viable infrastructure.",
+      "keywords": [
+        "utilities",
+        "asset management",
+        "water system"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4.C",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-4.D",
+      "goal_id": "4",
+      "goal_title": "Environmental infrastructure",
+      "text": "Make efficient use of federal and state funding for Hurricane Helene recovery.",
+      "keywords": [
+        "Hurricane Helene",
+        "disaster recovery",
+        "recovery"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4.D",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-5.A",
+      "goal_id": "5",
+      "goal_title": "Community engagement and public participation",
+      "text": "Make funding processes transparent and understandable to all communities and stakeholders.",
+      "keywords": [
+        "technical assistance",
+        "transparency"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 5, Objective 5.A",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-5.C",
+      "goal_id": "5",
+      "goal_title": "Community engagement and public participation",
+      "text": "Encourage stakeholder engagement on issues of concern to economically disadvantaged communities.",
+      "keywords": [
+        "environmental justice",
+        "disadvantaged communities",
+        "underserved"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 5, Objective 5.C",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-6.A",
+      "goal_id": "6",
+      "goal_title": "Modernize DEQ",
+      "text": "Modernize permit, compliance, and inspection processes.",
+      "keywords": [
+        "permitting",
+        "compliance",
+        "inspection"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 6, Objective 6.A",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    },
+    {
+      "id": "DEQ-6.B",
+      "goal_id": "6",
+      "goal_title": "Modernize DEQ",
+      "text": "Develop secure digital solutions for agency business, external communications, and regulatory actions.",
+      "keywords": [
+        "data systems",
+        "digital",
+        "monitoring data"
+      ],
+      "citation": {
+        "document": "NC DEQ Strategic Plan 2025-2029",
+        "section": "Goal 6, Objective 6.B",
+        "url": "https://www.osbm.nc.gov/strategic-plan-deq/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "water quality",
+    "drinking water",
+    "PFAS",
+    "brownfields",
+    "flood resilience",
+    "coastal",
+    "landslide",
+    "hazard mitigation",
+    "air quality",
+    "dam safety"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "EPA",
+    "Environmental Protection Agency",
+    "DOC-NOAA",
+    "National Oceanic",
+    "DOI-USGS",
+    "Geological Survey",
+    "DOE",
+    "Department of Energy",
+    "USDA-NRCS",
+    "FEMA"
+  ],
+  "wording_note": "Objective wording below is a close summary of the plan text, retrieved from the OSBM-posted plan on 2026-11-06. Check the exact wording in the cited section before quoting it externally.",
+  "reviewed_by": "",
+  "profile_version": "2.0"
+}

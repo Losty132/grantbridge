@@ -1,0 +1,244 @@
+{
+  "agency_id": "dpi",
+  "name": "NC Department of Public Instruction",
+  "short_name": "DPI",
+  "plan": {
+    "title": "Achieving Educational Excellence: 2025-2030 Strategic Plan for NC Public Schools",
+    "years": "2025-2030",
+    "url": "https://www.osbm.nc.gov/strategic-plan-dpi/download?attachment",
+    "retrieved": "2026-11-06"
+  },
+  "mission": {
+    "text": "Protect every student's right to a public education and support public school units in providing an excellent education that prepares students for their next phase of life. (summary)",
+    "citation": {
+      "document": "Achieving Educational Excellence: 2025-2030 Strategic Plan for NC Public Schools",
+      "section": "Mission",
+      "url": "https://www.osbm.nc.gov/strategic-plan-dpi/download?attachment"
+    }
+  },
+  "responsibilities": [
+    "Supports public school units (districts and charters) across North Carolina",
+    "Administers state and federal K-12 programs, assessments and accountability",
+    "Educator licensure, preparation and support",
+    "School safety and student health supports"
+  ],
+  "program_priorities": [
+    "Literacy and math achievement",
+    "Educator recruitment and retention",
+    "Family and community support",
+    "Safe and healthy schools",
+    "Operational modernization"
+  ],
+  "operating_programs": [
+    {
+      "name": "Named initiatives in the plan",
+      "description": "Science of Reading initiative; Career and College Promise; Advanced Teaching Roles; NC Student Information System (NCSIS); community schools model; Family Academy.",
+      "keywords": [
+        "science of reading",
+        "dual enrollment",
+        "advanced teaching roles",
+        "student information system",
+        "community schools"
+      ],
+      "sources": [
+        {
+          "title": "Achieving Educational Excellence: 2025-2030 Strategic Plan for NC Public Schools",
+          "url": "https://www.osbm.nc.gov/strategic-plan-dpi/download?attachment"
+        }
+      ]
+    }
+  ],
+  "objectives": [
+    {
+      "id": "DPI-P1.M1-M5",
+      "goal_id": "P1",
+      "goal_title": "Prepare each student for their next phase in life",
+      "text": "Raise reading and math achievement (NAEP and state EOG/EOC proficiency), including early learning and literacy.",
+      "keywords": [
+        "literacy",
+        "reading",
+        "mathematics",
+        "early learning",
+        "pre-K"
+      ],
+      "citation": {
+        "document": "Achieving Educational Excellence: 2025-2030 Strategic Plan for NC Public Schools",
+        "section": "Goal P1, Objective P1.M1-M5",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dpi/download?attachment"
+      }
+    },
+    {
+      "id": "DPI-P1.M7-M10",
+      "goal_id": "P1",
+      "goal_title": "Prepare each student for their next phase in life",
+      "text": "Raise graduation rates and participation in AP, dual enrollment, and career and technical education (CTE).",
+      "keywords": [
+        "graduation",
+        "dual enrollment",
+        "career and technical education",
+        "CTE",
+        "advanced placement"
+      ],
+      "citation": {
+        "document": "Achieving Educational Excellence: 2025-2030 Strategic Plan for NC Public Schools",
+        "section": "Goal P1, Objective P1.M7-M10",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dpi/download?attachment"
+      }
+    },
+    {
+      "id": "DPI-P1.M13",
+      "goal_id": "P1",
+      "goal_title": "Prepare each student for their next phase in life",
+      "text": "Reduce disproportionality in Exceptional Children and Academically/Intellectually Gifted identification.",
+      "keywords": [
+        "special education",
+        "exceptional children",
+        "gifted"
+      ],
+      "citation": {
+        "document": "Achieving Educational Excellence: 2025-2030 Strategic Plan for NC Public Schools",
+        "section": "Goal P1, Objective P1.M13",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dpi/download?attachment"
+      }
+    },
+    {
+      "id": "DPI-P2.M1-M3",
+      "goal_id": "P2",
+      "goal_title": "Revere public school educators",
+      "text": "Increase teacher preparation enrollment and retention of beginning teachers and early-career administrators.",
+      "keywords": [
+        "teacher preparation",
+        "teacher retention",
+        "educator pipeline",
+        "principal"
+      ],
+      "citation": {
+        "document": "Achieving Educational Excellence: 2025-2030 Strategic Plan for NC Public Schools",
+        "section": "Goal P2, Objective P2.M1-M3",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dpi/download?attachment"
+      }
+    },
+    {
+      "id": "DPI-P2.M4",
+      "goal_id": "P2",
+      "goal_title": "Revere public school educators",
+      "text": "Increase public school units implementing Advanced Teaching Roles.",
+      "keywords": [
+        "teacher leadership",
+        "career pathways"
+      ],
+      "citation": {
+        "document": "Achieving Educational Excellence: 2025-2030 Strategic Plan for NC Public Schools",
+        "section": "Goal P2, Objective P2.M4",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dpi/download?attachment"
+      }
+    },
+    {
+      "id": "DPI-P3.M1-M3",
+      "goal_id": "P3",
+      "goal_title": "Enhance parent, caregiver and community support",
+      "text": "Increase family engagement and integrated support models that remove non-academic barriers.",
+      "keywords": [
+        "family engagement",
+        "community schools",
+        "wraparound"
+      ],
+      "citation": {
+        "document": "Achieving Educational Excellence: 2025-2030 Strategic Plan for NC Public Schools",
+        "section": "Goal P3, Objective P3.M1-M3",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dpi/download?attachment"
+      }
+    },
+    {
+      "id": "DPI-P4.M1-M2",
+      "goal_id": "P4",
+      "goal_title": "Ensure healthy, safe and secure learning environments",
+      "text": "Increase schools with secured access and protected spaces, and trained school resource officers.",
+      "keywords": [
+        "school safety",
+        "school security"
+      ],
+      "citation": {
+        "document": "Achieving Educational Excellence: 2025-2030 Strategic Plan for NC Public Schools",
+        "section": "Goal P4, Objective P4.M1-M2",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dpi/download?attachment"
+      }
+    },
+    {
+      "id": "DPI-P4.M3-M6",
+      "goal_id": "P4",
+      "goal_title": "Ensure healthy, safe and secure learning environments",
+      "text": "Improve student mental health supports, reduce chronic absenteeism, and increase Medicaid revenue for school-based services.",
+      "keywords": [
+        "student mental health",
+        "chronic absenteeism",
+        "school-based health"
+      ],
+      "citation": {
+        "document": "Achieving Educational Excellence: 2025-2030 Strategic Plan for NC Public Schools",
+        "section": "Goal P4, Objective P4.M3-M6",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dpi/download?attachment"
+      }
+    },
+    {
+      "id": "DPI-P5.M2-M4",
+      "goal_id": "P5",
+      "goal_title": "Optimize operational excellence",
+      "text": "Modernize student information, financial and HR systems and increase use of data analytic tools.",
+      "keywords": [
+        "student information system",
+        "education data",
+        "data systems"
+      ],
+      "citation": {
+        "document": "Achieving Educational Excellence: 2025-2030 Strategic Plan for NC Public Schools",
+        "section": "Goal P5, Objective P5.M2-M4",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dpi/download?attachment"
+      }
+    },
+    {
+      "id": "DPI-P6.M1-M3",
+      "goal_id": "P6",
+      "goal_title": "Lead transformative change",
+      "text": "Decrease low-performing schools, increase use of timely assessment tools, and grow education networks.",
+      "keywords": [
+        "school improvement",
+        "low-performing schools",
+        "assessment",
+        "education research"
+      ],
+      "citation": {
+        "document": "Achieving Educational Excellence: 2025-2030 Strategic Plan for NC Public Schools",
+        "section": "Goal P6, Objective P6.M1-M3",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dpi/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "K-12",
+    "literacy",
+    "teacher",
+    "school safety",
+    "career and technical education",
+    "student mental health",
+    "special education"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99",
+    "05"
+  ],
+  "preferred_funders": [
+    "ED",
+    "Department of Education",
+    "NSF",
+    "National Science Foundation",
+    "USDOJ",
+    "HHS",
+    "SAMHSA"
+  ],
+  "wording_note": "Objective wording below is a close summary of the plan text, retrieved from the OSBM-posted plan on 2026-11-06. Check the exact wording in the cited section before quoting it externally.",
+  "reviewed_by": "",
+  "profile_version": "2.0"
+}

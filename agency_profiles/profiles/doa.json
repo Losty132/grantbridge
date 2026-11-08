@@ -1,0 +1,112 @@
+{
+  "agency_id": "doa",
+  "name": "NC Department of Administration",
+  "short_name": "DOA",
+  "plan": {
+    "title": "NC Department of Administration Strategic Plan FY 2026-2029",
+    "years": "2026-2029",
+    "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doa/open",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "To enhance the lives of North Carolinians by providing foundational support to state government through asset management, service operations, and constituent advocacy.",
+    "citation": {
+      "document": "NC Department of Administration Strategic Plan FY 2026-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doa/open"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Deliver client and people-centered services",
+    "Foster a culture of innovation to modernize",
+    "Optimize government operations to maximize resources"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "DOA-1.1-1.3",
+      "goal_id": "1",
+      "goal_title": "Optimize government operations to maximize resources",
+      "text": "Assess division performance metrics and execute transformation projects that lower costs and drive revenue.",
+      "keywords": [
+        "operational efficiency",
+        "performance metrics",
+        "asset management"
+      ],
+      "citation": {
+        "document": "NC Department of Administration Strategic Plan FY 2026-2029",
+        "section": "Goal 1, Objective 1.1-1.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doa/open"
+      }
+    },
+    {
+      "id": "DOA-2.1-2.3",
+      "goal_id": "2",
+      "goal_title": "Foster a culture of innovation to modernize",
+      "text": "Stand up an innovation task force, deploy AI use cases and support continuous education.",
+      "keywords": [
+        "innovation",
+        "artificial intelligence",
+        "modernization"
+      ],
+      "citation": {
+        "document": "NC Department of Administration Strategic Plan FY 2026-2029",
+        "section": "Goal 2, Objective 2.1-2.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doa/open"
+      }
+    },
+    {
+      "id": "DOA-3.1",
+      "goal_id": "3",
+      "goal_title": "Deliver client and people-centered services",
+      "text": "Give clients and constituents 24/7 contact through chatbots and improved communications.",
+      "keywords": [
+        "constituent services",
+        "digital services"
+      ],
+      "citation": {
+        "document": "NC Department of Administration Strategic Plan FY 2026-2029",
+        "section": "Goal 3, Objective 3.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doa/open"
+      }
+    },
+    {
+      "id": "DOA-3.3",
+      "goal_id": "3",
+      "goal_title": "Deliver client and people-centered services",
+      "text": "Digitize remaining hard-copy records and move to unified electronic signatures to make records accessible.",
+      "keywords": [
+        "records digitization",
+        "public records",
+        "e-government"
+      ],
+      "citation": {
+        "document": "NC Department of Administration Strategic Plan FY 2026-2029",
+        "section": "Goal 3, Objective 3.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doa/open"
+      }
+    }
+  ],
+  "search_terms": [
+    "state facilities",
+    "procurement",
+    "constituent advocacy",
+    "historically underutilized businesses",
+    "records digitization"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "GSA",
+    "SBA",
+    "HHS",
+    "DOJ"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

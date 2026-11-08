@@ -1,0 +1,189 @@
+{
+  "agency_id": "wrc",
+  "name": "NC Wildlife Resources Commission",
+  "short_name": "NCWRC",
+  "plan": {
+    "title": "NC Wildlife Resources Commission Strategic Plan 2023-2025",
+    "years": "2023-2025",
+    "url": "https://www.osbm.nc.gov/documents/files/strategicplan-wrc/open",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "To conserve North Carolina's wildlife resources and their habitats and provide programs and opportunities that allow hunters, anglers, boaters, and other outdoor enthusiasts to enjoy wildlife-associated recreation.",
+    "citation": {
+      "document": "NC Wildlife Resources Commission Strategic Plan 2023-2025",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/documents/files/strategicplan-wrc/open"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Conserve fish and wildlife resources",
+    "Expand the constituency for wildlife recreation",
+    "Leader in working lands and habitat conservation",
+    "Safe participation in hunting, fishing, boating and wildlife activities",
+    "Sound funding model"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "NCWRC-1.2",
+      "goal_id": "1",
+      "goal_title": "Safe participation in hunting, fishing, boating and wildlife activities",
+      "text": "Increase public access to private lands and waterways.",
+      "keywords": [
+        "public access",
+        "boating access",
+        "fishing access",
+        "voluntary public access"
+      ],
+      "citation": {
+        "document": "NC Wildlife Resources Commission Strategic Plan 2023-2025",
+        "section": "Goal 1, Objective 1.2",
+        "url": "https://www.osbm.nc.gov/documents/files/strategicplan-wrc/open"
+      }
+    },
+    {
+      "id": "NCWRC-1.4",
+      "goal_id": "1",
+      "goal_title": "Safe participation in hunting, fishing, boating and wildlife activities",
+      "text": "Reduce hunting and boating incidents and violations.",
+      "keywords": [
+        "boating safety",
+        "hunter education",
+        "recreational boating safety"
+      ],
+      "citation": {
+        "document": "NC Wildlife Resources Commission Strategic Plan 2023-2025",
+        "section": "Goal 1, Objective 1.4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategicplan-wrc/open"
+      }
+    },
+    {
+      "id": "NCWRC-2.1-2.4",
+      "goal_id": "2",
+      "goal_title": "Expand the constituency for wildlife recreation",
+      "text": "Expand hunting, angling and conservation education, including for people with disabilities.",
+      "keywords": [
+        "conservation education",
+        "R3",
+        "angler education",
+        "accessible recreation"
+      ],
+      "citation": {
+        "document": "NC Wildlife Resources Commission Strategic Plan 2023-2025",
+        "section": "Goal 2, Objective 2.1-2.4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategicplan-wrc/open"
+      }
+    },
+    {
+      "id": "NCWRC-3.1",
+      "goal_id": "3",
+      "goal_title": "Conserve fish and wildlife resources",
+      "text": "Implement the recommendations of the NC Wildlife Action Plan.",
+      "keywords": [
+        "State Wildlife Action Plan",
+        "state wildlife grants",
+        "species of greatest conservation need",
+        "nongame"
+      ],
+      "citation": {
+        "document": "NC Wildlife Resources Commission Strategic Plan 2023-2025",
+        "section": "Goal 3, Objective 3.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategicplan-wrc/open"
+      }
+    },
+    {
+      "id": "NCWRC-3.3",
+      "goal_id": "3",
+      "goal_title": "Conserve fish and wildlife resources",
+      "text": "Protect habitat through land acquisition, mitigation, restoration and enhancement.",
+      "keywords": [
+        "habitat restoration",
+        "land acquisition",
+        "habitat conservation",
+        "stream restoration"
+      ],
+      "citation": {
+        "document": "NC Wildlife Resources Commission Strategic Plan 2023-2025",
+        "section": "Goal 3, Objective 3.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategicplan-wrc/open"
+      }
+    },
+    {
+      "id": "NCWRC-3.5",
+      "goal_id": "3",
+      "goal_title": "Conserve fish and wildlife resources",
+      "text": "Sustain wildlife resources under changing climate conditions and human development.",
+      "keywords": [
+        "climate adaptation",
+        "resilience",
+        "endangered species"
+      ],
+      "citation": {
+        "document": "NC Wildlife Resources Commission Strategic Plan 2023-2025",
+        "section": "Goal 3, Objective 3.5",
+        "url": "https://www.osbm.nc.gov/documents/files/strategicplan-wrc/open"
+      }
+    },
+    {
+      "id": "NCWRC-4.1",
+      "goal_id": "4",
+      "goal_title": "Leader in working lands and habitat conservation",
+      "text": "Enhance partnerships with land-funding and land-management agencies.",
+      "keywords": [
+        "working lands",
+        "conservation partnerships",
+        "land conservation"
+      ],
+      "citation": {
+        "document": "NC Wildlife Resources Commission Strategic Plan 2023-2025",
+        "section": "Goal 4, Objective 4.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategicplan-wrc/open"
+      }
+    },
+    {
+      "id": "NCWRC-6.1",
+      "goal_id": "6",
+      "goal_title": "Sound funding model",
+      "text": "Leverage and diversify cooperative funding through expanded partnerships.",
+      "keywords": [
+        "Wildlife Restoration",
+        "Sport Fish Restoration",
+        "Pittman-Robertson",
+        "Dingell-Johnson"
+      ],
+      "citation": {
+        "document": "NC Wildlife Resources Commission Strategic Plan 2023-2025",
+        "section": "Goal 6, Objective 6.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategicplan-wrc/open"
+      }
+    }
+  ],
+  "search_terms": [
+    "wildlife conservation",
+    "fish and wildlife",
+    "boating access",
+    "hunter education",
+    "endangered species",
+    "habitat restoration"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "FWS",
+    "Fish and Wildlife Service",
+    "Interior",
+    "NOAA",
+    "USDA",
+    "NRCS",
+    "Forest Service",
+    "Coast Guard"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

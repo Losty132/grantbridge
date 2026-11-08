@@ -1,0 +1,132 @@
+{
+  "agency_id": "sbi",
+  "name": "NC State Bureau of Investigation",
+  "short_name": "SBI",
+  "plan": {
+    "title": "NC State Bureau of Investigation Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/strategic-plan-sbi/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "To serve sheriffs, police chiefs, and district attorneys as well as state and federal partners by investigating crimes and providing technical assistance to increase public safety.",
+    "citation": {
+      "document": "NC State Bureau of Investigation Strategic Plan 2025-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/strategic-plan-sbi/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Assist criminal justice partners and the public",
+    "Ensure effective and efficient processes",
+    "Support the SBI workforce"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "SBI-1.1-1.5",
+      "goal_id": "1",
+      "goal_title": "Support the SBI workforce",
+      "text": "Make salaries competitive, launch an employee wellness program and reduce workplace safety incidents.",
+      "keywords": [
+        "law enforcement wellness",
+        "officer safety",
+        "retention"
+      ],
+      "citation": {
+        "document": "NC State Bureau of Investigation Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.1-1.5",
+        "url": "https://www.osbm.nc.gov/strategic-plan-sbi/download?attachment"
+      }
+    },
+    {
+      "id": "SBI-2.1",
+      "goal_id": "2",
+      "goal_title": "Assist criminal justice partners and the public",
+      "text": "Track emerging law enforcement trends and maintain technology and equipment, implementing new investigative tools.",
+      "keywords": [
+        "investigative technology",
+        "digital forensics",
+        "cybercrime",
+        "criminal intelligence"
+      ],
+      "citation": {
+        "document": "NC State Bureau of Investigation Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.1",
+        "url": "https://www.osbm.nc.gov/strategic-plan-sbi/download?attachment"
+      }
+    },
+    {
+      "id": "SBI-2.2",
+      "goal_id": "2",
+      "goal_title": "Assist criminal justice partners and the public",
+      "text": "Give agents new equipment and training to safely respond and protect the public.",
+      "keywords": [
+        "law enforcement equipment",
+        "law enforcement training"
+      ],
+      "citation": {
+        "document": "NC State Bureau of Investigation Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.2",
+        "url": "https://www.osbm.nc.gov/strategic-plan-sbi/download?attachment"
+      }
+    },
+    {
+      "id": "SBI-2.3",
+      "goal_id": "2",
+      "goal_title": "Assist criminal justice partners and the public",
+      "text": "Increase staffing by 20% to support partner agencies in all jurisdictions.",
+      "keywords": [
+        "criminal investigation",
+        "drug enforcement",
+        "human trafficking",
+        "local law enforcement support"
+      ],
+      "citation": {
+        "document": "NC State Bureau of Investigation Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.3",
+        "url": "https://www.osbm.nc.gov/strategic-plan-sbi/download?attachment"
+      }
+    },
+    {
+      "id": "SBI-3.1-3.3",
+      "goal_id": "3",
+      "goal_title": "Ensure effective and efficient processes",
+      "text": "Replace outdated systems, develop policies and plan budgets to support independent SBI operations.",
+      "keywords": [
+        "records management",
+        "modernization"
+      ],
+      "citation": {
+        "document": "NC State Bureau of Investigation Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.1-3.3",
+        "url": "https://www.osbm.nc.gov/strategic-plan-sbi/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "criminal investigation",
+    "drug enforcement",
+    "cybercrime",
+    "human trafficking",
+    "officer safety"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "DOJ",
+    "Department of Justice",
+    "BJA",
+    "OJP",
+    "ONDCP",
+    "HIDTA",
+    "DHS"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

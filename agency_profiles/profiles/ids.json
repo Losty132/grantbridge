@@ -1,0 +1,113 @@
+{
+  "agency_id": "ids",
+  "name": "NC Office of Indigent Defense Services",
+  "short_name": "IDS",
+  "plan": {
+    "title": "NC Indigent Defense Services Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-ids/open",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "To uphold the constitutional promise of counsel for every indigent person by supporting a system of independent public defense grounded in quality, consistency, and accountability.",
+    "citation": {
+      "document": "NC Indigent Defense Services Strategic Plan 2025-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-ids/open"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Improve administrative support and communications",
+    "Improve compensation and case support for appointed counsel",
+    "Quality client service in all 100 counties"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "IDS-1.1",
+      "goal_id": "1",
+      "goal_title": "Quality client service in all 100 counties",
+      "text": "Improve the effectiveness and efficiency of public defense by expanding public defender districts statewide.",
+      "keywords": [
+        "public defense",
+        "public defender",
+        "indigent defense",
+        "right to counsel"
+      ],
+      "citation": {
+        "document": "NC Indigent Defense Services Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-ids/open"
+      }
+    },
+    {
+      "id": "IDS-1.2",
+      "goal_id": "1",
+      "goal_title": "Quality client service in all 100 counties",
+      "text": "Determine the effectiveness and efficiency of the Managed Assigned Counsel system.",
+      "keywords": [
+        "assigned counsel",
+        "program evaluation"
+      ],
+      "citation": {
+        "document": "NC Indigent Defense Services Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.2",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-ids/open"
+      }
+    },
+    {
+      "id": "IDS-2.1-2.3",
+      "goal_id": "2",
+      "goal_title": "Improve compensation and case support for appointed counsel",
+      "text": "Streamline payments, raise rates in underserved rural areas and expand digital discovery to grow private assigned counsel rosters.",
+      "keywords": [
+        "rural access to counsel",
+        "digital discovery",
+        "attorney recruitment"
+      ],
+      "citation": {
+        "document": "NC Indigent Defense Services Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.1-2.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-ids/open"
+      }
+    },
+    {
+      "id": "IDS-3.1-3.4",
+      "goal_id": "3",
+      "goal_title": "Improve administrative support and communications",
+      "text": "Increase public defender office effectiveness through informed decisions, technology tools and publications.",
+      "keywords": [
+        "court technology",
+        "defense training",
+        "criminal justice data"
+      ],
+      "citation": {
+        "document": "NC Indigent Defense Services Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.1-3.4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-ids/open"
+      }
+    }
+  ],
+  "search_terms": [
+    "public defense",
+    "indigent defense",
+    "right to counsel",
+    "criminal justice reform",
+    "juvenile defense"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "DOJ",
+    "Department of Justice",
+    "BJA",
+    "OJP"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

@@ -1,0 +1,183 @@
+{
+  "agency_id": "ncccs",
+  "name": "NC Community College System",
+  "short_name": "NCCCS",
+  "plan": {
+    "title": "NC Community College System Strategic Plan 2022-2026",
+    "years": "2023-2025",
+    "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-ncccs/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "Provides education, training and credentials through 58 community colleges to develop the most competitive workforce in the nation.",
+    "citation": {
+      "document": "NC Community College System Strategic Plan 2022-2026",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-ncccs/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Economic and workforce development",
+    "Enrollment",
+    "Faculty and staff recruitment and retention",
+    "Student success",
+    "System funding and effectiveness"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "NCCCS-1.1-1.3",
+      "goal_id": "1",
+      "goal_title": "Faculty and staff recruitment and retention",
+      "text": "Address faculty and staff shortages and make community colleges desirable employment destinations.",
+      "keywords": [
+        "faculty recruitment",
+        "educator workforce"
+      ],
+      "citation": {
+        "document": "NC Community College System Strategic Plan 2022-2026",
+        "section": "Goal 1, Objective 1.1-1.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-ncccs/download?attachment"
+      }
+    },
+    {
+      "id": "NCCCS-2.3",
+      "goal_id": "2",
+      "goal_title": "Enrollment",
+      "text": "Streamline and strengthen pathways to community colleges and careers.",
+      "keywords": [
+        "career pathways",
+        "dual enrollment",
+        "college access"
+      ],
+      "citation": {
+        "document": "NC Community College System Strategic Plan 2022-2026",
+        "section": "Goal 2, Objective 2.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-ncccs/download?attachment"
+      }
+    },
+    {
+      "id": "NCCCS-2.4",
+      "goal_id": "2",
+      "goal_title": "Enrollment",
+      "text": "Increase recruitment and retention of adult learners.",
+      "keywords": [
+        "adult learners",
+        "adult education",
+        "reskilling"
+      ],
+      "citation": {
+        "document": "NC Community College System Strategic Plan 2022-2026",
+        "section": "Goal 2, Objective 2.4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-ncccs/download?attachment"
+      }
+    },
+    {
+      "id": "NCCCS-3.2-3.3",
+      "goal_id": "3",
+      "goal_title": "Student success",
+      "text": "Promote teaching excellence and a safe, healthy, resilient learning environment.",
+      "keywords": [
+        "student success",
+        "student mental health",
+        "basic needs"
+      ],
+      "citation": {
+        "document": "NC Community College System Strategic Plan 2022-2026",
+        "section": "Goal 3, Objective 3.2-3.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-ncccs/download?attachment"
+      }
+    },
+    {
+      "id": "NCCCS-4.1",
+      "goal_id": "4",
+      "goal_title": "Economic and workforce development",
+      "text": "Cultivate a pipeline of highly skilled workers that meets employer needs in every prosperity zone.",
+      "keywords": [
+        "workforce training",
+        "industry partnerships",
+        "advanced manufacturing",
+        "health care workforce"
+      ],
+      "citation": {
+        "document": "NC Community College System Strategic Plan 2022-2026",
+        "section": "Goal 4, Objective 4.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-ncccs/download?attachment"
+      }
+    },
+    {
+      "id": "NCCCS-4.2",
+      "goal_id": "4",
+      "goal_title": "Economic and workforce development",
+      "text": "Focus instruction on relevant skills, credential attainment and competency.",
+      "keywords": [
+        "short-term credentials",
+        "career and technical education",
+        "Perkins",
+        "apprenticeship"
+      ],
+      "citation": {
+        "document": "NC Community College System Strategic Plan 2022-2026",
+        "section": "Goal 4, Objective 4.2",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-ncccs/download?attachment"
+      }
+    },
+    {
+      "id": "NCCCS-4.3",
+      "goal_id": "4",
+      "goal_title": "Economic and workforce development",
+      "text": "Increase access to training, education and wraparound services that support upward mobility.",
+      "keywords": [
+        "wraparound services",
+        "economic mobility",
+        "workforce Pell"
+      ],
+      "citation": {
+        "document": "NC Community College System Strategic Plan 2022-2026",
+        "section": "Goal 4, Objective 4.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-ncccs/download?attachment"
+      }
+    },
+    {
+      "id": "NCCCS-5.4",
+      "goal_id": "5",
+      "goal_title": "System funding and effectiveness",
+      "text": "Provide data and technology systems that support colleges' core business.",
+      "keywords": [
+        "education data systems",
+        "technology"
+      ],
+      "citation": {
+        "document": "NC Community College System Strategic Plan 2022-2026",
+        "section": "Goal 5, Objective 5.4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-ncccs/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "community college",
+    "workforce training",
+    "career and technical education",
+    "adult education",
+    "short-term credentials",
+    "apprenticeship"
+  ],
+  "eligible_applicant_codes": [
+    "06",
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "ED",
+    "Department of Education",
+    "DOL",
+    "Department of Labor",
+    "NSF",
+    "EDA"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

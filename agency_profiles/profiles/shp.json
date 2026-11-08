@@ -1,0 +1,150 @@
+{
+  "agency_id": "shp",
+  "name": "NC State Highway Patrol",
+  "short_name": "SHP",
+  "plan": {
+    "title": "NC State Highway Patrol Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/strategic-plan-shp/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "Ensures safe and efficient transportation on North Carolina's highways through education and enforcement.",
+    "citation": {
+      "document": "NC State Highway Patrol Strategic Plan 2025-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/strategic-plan-shp/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Ensure effective and efficient operations",
+    "Integrate partner agencies",
+    "Make NCSHP a career destination",
+    "Make North Carolina more resilient to disasters",
+    "Protect and engage with the public"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "SHP-1.1-1.2",
+      "goal_id": "1",
+      "goal_title": "Make NCSHP a career destination",
+      "text": "Improve trooper and telecommunicator retention and strengthen recruitment.",
+      "keywords": [
+        "law enforcement recruitment",
+        "telecommunicators",
+        "911"
+      ],
+      "citation": {
+        "document": "NC State Highway Patrol Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.1-1.2",
+        "url": "https://www.osbm.nc.gov/strategic-plan-shp/download?attachment"
+      }
+    },
+    {
+      "id": "SHP-1.3",
+      "goal_id": "1",
+      "goal_title": "Make NCSHP a career destination",
+      "text": "Enhance commercial motor vehicle enforcement, including post-crash inspections.",
+      "keywords": [
+        "commercial vehicle safety",
+        "MCSAP",
+        "truck safety"
+      ],
+      "citation": {
+        "document": "NC State Highway Patrol Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.3",
+        "url": "https://www.osbm.nc.gov/strategic-plan-shp/download?attachment"
+      }
+    },
+    {
+      "id": "SHP-2.1-2.2",
+      "goal_id": "2",
+      "goal_title": "Ensure effective and efficient operations",
+      "text": "Modernize infrastructure and technology and improve operational readiness and officer safety.",
+      "keywords": [
+        "law enforcement technology",
+        "officer safety",
+        "training academy"
+      ],
+      "citation": {
+        "document": "NC State Highway Patrol Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.1-2.2",
+        "url": "https://www.osbm.nc.gov/strategic-plan-shp/download?attachment"
+      }
+    },
+    {
+      "id": "SHP-3.1-3.2",
+      "goal_id": "3",
+      "goal_title": "Protect and engage with the public",
+      "text": "Use license plate readers and data-driven traffic enforcement to improve public safety.",
+      "keywords": [
+        "traffic enforcement",
+        "highway safety",
+        "impaired driving",
+        "data-driven enforcement"
+      ],
+      "citation": {
+        "document": "NC State Highway Patrol Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.1-3.2",
+        "url": "https://www.osbm.nc.gov/strategic-plan-shp/download?attachment"
+      }
+    },
+    {
+      "id": "SHP-4.1",
+      "goal_id": "4",
+      "goal_title": "Make North Carolina more resilient to disasters",
+      "text": "Expand aerial and public order capabilities for emergency response.",
+      "keywords": [
+        "emergency response",
+        "aviation",
+        "disaster response"
+      ],
+      "citation": {
+        "document": "NC State Highway Patrol Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4.1",
+        "url": "https://www.osbm.nc.gov/strategic-plan-shp/download?attachment"
+      }
+    },
+    {
+      "id": "SHP-5.1-5.2",
+      "goal_id": "5",
+      "goal_title": "Integrate partner agencies",
+      "text": "Integrate the License & Theft Bureau and standardize State Capitol Police training and policy.",
+      "keywords": [
+        "vehicle theft",
+        "capitol police"
+      ],
+      "citation": {
+        "document": "NC State Highway Patrol Strategic Plan 2025-2029",
+        "section": "Goal 5, Objective 5.1-5.2",
+        "url": "https://www.osbm.nc.gov/strategic-plan-shp/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "highway safety",
+    "traffic enforcement",
+    "commercial vehicle safety",
+    "impaired driving",
+    "law enforcement technology"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "NHTSA",
+    "FMCSA",
+    "DOT",
+    "Department of Transportation",
+    "DHS",
+    "FEMA",
+    "DOJ"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

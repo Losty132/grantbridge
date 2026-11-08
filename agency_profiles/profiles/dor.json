@@ -1,0 +1,93 @@
+{
+  "agency_id": "dor",
+  "name": "NC Department of Revenue",
+  "short_name": "NCDOR",
+  "plan": {
+    "title": "NC Department of Revenue Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dor/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "To fund public services benefiting the people of North Carolina, administer the tax laws and collect the taxes due in an impartial, consistent, secure, and efficient manner.",
+    "citation": {
+      "document": "NC Department of Revenue Strategic Plan 2025-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dor/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Operational excellence and efficiency",
+    "Tax system modernization",
+    "Workforce development and planning"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "NCDOR-1",
+      "goal_id": "1",
+      "goal_title": "Tax system modernization",
+      "text": "Replace the 30-year-old legacy tax system to improve processing, security and electronic services.",
+      "keywords": [
+        "tax system modernization",
+        "IT modernization",
+        "cybersecurity",
+        "identity theft"
+      ],
+      "citation": {
+        "document": "NC Department of Revenue Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dor/download?attachment"
+      }
+    },
+    {
+      "id": "NCDOR-2",
+      "goal_id": "2",
+      "goal_title": "Workforce development and planning",
+      "text": "Attract and retain a skilled workforce and optimize resources for agency goals.",
+      "keywords": [
+        "workforce",
+        "retention"
+      ],
+      "citation": {
+        "document": "NC Department of Revenue Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dor/download?attachment"
+      }
+    },
+    {
+      "id": "NCDOR-3",
+      "goal_id": "3",
+      "goal_title": "Operational excellence and efficiency",
+      "text": "Improve operational efficiency and taxpayer service.",
+      "keywords": [
+        "taxpayer services",
+        "efficiency"
+      ],
+      "citation": {
+        "document": "NC Department of Revenue Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dor/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "tax administration",
+    "tax system modernization",
+    "identity theft",
+    "taxpayer services"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "Treasury",
+    "IRS"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

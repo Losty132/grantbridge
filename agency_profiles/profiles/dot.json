@@ -1,0 +1,184 @@
+{
+  "agency_id": "dot",
+  "name": "NC Department of Transportation",
+  "short_name": "NCDOT",
+  "plan": {
+    "title": "NCDOT Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/strategic-plan-dot/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "Connecting people, products and places safely and efficiently, with customer focus, to enhance the economy and vitality of North Carolina.",
+    "citation": {
+      "document": "NCDOT Strategic Plan 2025-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/strategic-plan-dot/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Deliver our program",
+    "Improve resource stewardship",
+    "Improve safety for all modes",
+    "Increase customer satisfaction",
+    "Increase reliability and access",
+    "Operate and maintain our system",
+    "Restore transportation infrastructure"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "NCDOT-1.R",
+      "goal_id": "1",
+      "goal_title": "Restore transportation infrastructure",
+      "text": "Restore transportation infrastructure damaged by disasters, including Hurricane Helene recovery.",
+      "keywords": [
+        "disaster recovery",
+        "Hurricane Helene",
+        "emergency relief",
+        "resilience",
+        "infrastructure repair"
+      ],
+      "citation": {
+        "document": "NCDOT Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective R",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dot/download?attachment"
+      }
+    },
+    {
+      "id": "NCDOT-2.S",
+      "goal_id": "2",
+      "goal_title": "Improve safety for all modes",
+      "text": "Improve safety for all modes of transportation and reduce fatalities and serious injuries.",
+      "keywords": [
+        "highway safety",
+        "traffic safety",
+        "bicycle and pedestrian safety",
+        "safe streets",
+        "rail safety",
+        "vision zero"
+      ],
+      "citation": {
+        "document": "NCDOT Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective S",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dot/download?attachment"
+      }
+    },
+    {
+      "id": "NCDOT-3.A",
+      "goal_id": "3",
+      "goal_title": "Increase reliability and access",
+      "text": "Increase reliability and access to keep people, products and places connected across modes.",
+      "keywords": [
+        "transit",
+        "freight",
+        "rail",
+        "aviation",
+        "ferry",
+        "mobility",
+        "multimodal"
+      ],
+      "citation": {
+        "document": "NCDOT Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective A",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dot/download?attachment"
+      }
+    },
+    {
+      "id": "NCDOT-4.P",
+      "goal_id": "4",
+      "goal_title": "Deliver our program",
+      "text": "Deliver the State Transportation Improvement Program (STIP) of state- and federally-funded construction projects.",
+      "keywords": [
+        "highway construction",
+        "bridge",
+        "STIP",
+        "infrastructure investment"
+      ],
+      "citation": {
+        "document": "NCDOT Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective P",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dot/download?attachment"
+      }
+    },
+    {
+      "id": "NCDOT-5.M",
+      "goal_id": "5",
+      "goal_title": "Operate and maintain our system",
+      "text": "Operate and maintain over 80,000 miles of road, 13,000 bridges, 23 ferries and over 2,000 buildings.",
+      "keywords": [
+        "road maintenance",
+        "bridge maintenance",
+        "ferry",
+        "asset management"
+      ],
+      "citation": {
+        "document": "NCDOT Strategic Plan 2025-2029",
+        "section": "Goal 5, Objective M",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dot/download?attachment"
+      }
+    },
+    {
+      "id": "NCDOT-6.E",
+      "goal_id": "6",
+      "goal_title": "Improve resource stewardship",
+      "text": "Improve stewardship of financial and environmental resources.",
+      "keywords": [
+        "environmental stewardship",
+        "stormwater",
+        "resource stewardship"
+      ],
+      "citation": {
+        "document": "NCDOT Strategic Plan 2025-2029",
+        "section": "Goal 6, Objective E",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dot/download?attachment"
+      }
+    },
+    {
+      "id": "NCDOT-7.C",
+      "goal_id": "7",
+      "goal_title": "Increase customer satisfaction",
+      "text": "Increase customer satisfaction with transportation services.",
+      "keywords": [
+        "customer service",
+        "public engagement"
+      ],
+      "citation": {
+        "document": "NCDOT Strategic Plan 2025-2029",
+        "section": "Goal 7, Objective C",
+        "url": "https://www.osbm.nc.gov/strategic-plan-dot/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "highway safety",
+    "transit",
+    "bridge",
+    "rail",
+    "disaster recovery",
+    "bicycle and pedestrian",
+    "aviation",
+    "ferry"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "DOT",
+    "Department of Transportation",
+    "FHWA",
+    "FTA",
+    "FRA",
+    "FAA",
+    "NHTSA",
+    "FMCSA",
+    "MARAD",
+    "FEMA"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

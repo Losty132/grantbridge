@@ -1,0 +1,156 @@
+{
+  "agency_id": "dacs",
+  "name": "NC Department of Agriculture and Consumer Services",
+  "short_name": "NCDA&CS",
+  "plan": {
+    "title": "NC Department of Agriculture and Consumer Services Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dacs/open",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "To provide services that promote and improve agriculture, agribusiness, and forests; protect consumers and businesses; and conserve farmland and natural resources for the prosperity of all North Carolinians.",
+    "citation": {
+      "document": "NC Department of Agriculture and Consumer Services Strategic Plan 2025-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dacs/open"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Agricultural services",
+    "Enterprise centers",
+    "NC Forest Service",
+    "Regulatory programs"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "NCDACS-1.1",
+      "goal_id": "1",
+      "goal_title": "Agricultural services",
+      "text": "Increase acres of farmland protected with long-term conservation easements and agreements.",
+      "keywords": [
+        "farmland preservation",
+        "conservation easements",
+        "working lands"
+      ],
+      "citation": {
+        "document": "NC Department of Agriculture and Consumer Services Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dacs/open"
+      }
+    },
+    {
+      "id": "NCDACS-1.2",
+      "goal_id": "1",
+      "goal_title": "Agricultural services",
+      "text": "Increase and enhance production and marketing of North Carolina agricultural products.",
+      "keywords": [
+        "agricultural marketing",
+        "specialty crop",
+        "agribusiness",
+        "local food"
+      ],
+      "citation": {
+        "document": "NC Department of Agriculture and Consumer Services Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.2",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dacs/open"
+      }
+    },
+    {
+      "id": "NCDACS-2.1",
+      "goal_id": "2",
+      "goal_title": "NC Forest Service",
+      "text": "Increase protection of the state's forests from wildfire.",
+      "keywords": [
+        "wildfire",
+        "wildland fire",
+        "forest protection",
+        "fire risk reduction"
+      ],
+      "citation": {
+        "document": "NC Department of Agriculture and Consumer Services Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dacs/open"
+      }
+    },
+    {
+      "id": "NCDACS-2.2-2.3",
+      "goal_id": "2",
+      "goal_title": "NC Forest Service",
+      "text": "Increase management and promotion of forest resources.",
+      "keywords": [
+        "forestry",
+        "forest management",
+        "urban forestry",
+        "forest health"
+      ],
+      "citation": {
+        "document": "NC Department of Agriculture and Consumer Services Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.2-2.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dacs/open"
+      }
+    },
+    {
+      "id": "NCDACS-3.1",
+      "goal_id": "3",
+      "goal_title": "Regulatory programs",
+      "text": "Protect public health through food safety, animal health and consumer protection, improving complaint response.",
+      "keywords": [
+        "food safety",
+        "animal health",
+        "plant protection",
+        "pesticide",
+        "consumer protection"
+      ],
+      "citation": {
+        "document": "NC Department of Agriculture and Consumer Services Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dacs/open"
+      }
+    },
+    {
+      "id": "NCDACS-4.1",
+      "goal_id": "4",
+      "goal_title": "Enterprise centers",
+      "text": "Create positive entertainment and educational experiences that promote NC agriculture.",
+      "keywords": [
+        "agricultural education",
+        "agritourism"
+      ],
+      "citation": {
+        "document": "NC Department of Agriculture and Consumer Services Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-dacs/open"
+      }
+    }
+  ],
+  "search_terms": [
+    "agriculture",
+    "specialty crop",
+    "food safety",
+    "forestry",
+    "wildfire",
+    "farmland preservation",
+    "animal health"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "USDA",
+    "Department of Agriculture",
+    "NIFA",
+    "AMS",
+    "Forest Service",
+    "NRCS",
+    "FDA",
+    "APHIS"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

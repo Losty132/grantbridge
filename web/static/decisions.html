@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Pursue, Maybe and Pass decisions with reasons.">
+  <meta name="color-scheme" content="dark light">
+  <title>Decisions · GrantBridge</title>
+  <link rel="icon" type="image/png" href="favicon.png?v=86746500cb">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Manrope:wght@500;600;700;800&amp;display=swap">
+  <link rel="stylesheet" href="stylesheet.css?v=7535f36746">
+  <script src="script.js?v=0ca532d69e" defer></script>
+</head>
+<body data-page="decisions">
+  <div class="noise-overlay" aria-hidden="true"></div>
+  <div class="cursor-glow" aria-hidden="true"></div>
+  <div class="scroll-progress" aria-hidden="true"></div>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+
+  <header class="site-header">
+    <div class="header-container">
+      <a class="brand" href="index.html" aria-label="GrantBridge home">
+        <img class="brand-logo logo-on-dark" src="logo-dark.png?v=86746500cb" alt="GrantBridge" width="130" height="60" decoding="async"><img class="brand-logo logo-on-light" src="logo-light.png?v=86746500cb" alt="" aria-hidden="true" width="130" height="60" decoding="async">
+      </a>
+      <nav class="desktop-navigation" aria-label="Main navigation"><a class="nav-link" href="index.html">Matches</a><a class="nav-link active" href="decisions.html" aria-current="page">Decisions</a><a class="nav-link" href="evaluation.html">Evaluation</a><a class="nav-link" href="method.html">Method</a></nav>
+      <div class="header-actions">
+        <label class="agency-picker"><span class="sr-only">Agency</span><select id="agency-select" aria-label="Agency"></select></label>
+        <button class="icon-button command-button" type="button" aria-label="Open command menu (Ctrl or Cmd + K)"><span class="keyboard-icon">⌘K</span></button>
+        <button class="icon-button theme-toggle" type="button" aria-label="Switch light or dark theme"><svg class="sun-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.93 4.93l1.42 1.42M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.42-1.42M17.66 6.34l1.41-1.41"></path></svg><svg class="moon-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg></button>
+        <button class="icon-button settings-button" type="button" aria-label="Settings" aria-expanded="false"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg></button>
+        <button class="mobile-menu-button" type="button" aria-label="Open navigation" aria-expanded="false"><span></span><span></span></button>
+      </div>
+    </div>
+    <nav class="mobile-navigation" aria-label="Mobile navigation"><a href="index.html">Matches</a><a class="active" href="decisions.html">Decisions</a><a href="evaluation.html">Evaluation</a><a href="method.html">Method</a></nav>
+    <div class="privacy-strip" role="note">
+      <div class="privacy-strip-inner"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="10" width="16" height="11" rx="3"></rect><path d="M8 10V7a4 4 0 0 1 8 0v3"></path></svg><strong>Public information only. Do not enter confidential data.</strong>
+        <span>A privacy filter screens everything you type before any AI call, save or download. Personal details are redacted; internal information is blocked.</span> <a class="privacy-more" href="method.html#privacy">How it works</a></div>
+    </div>
+  </header>
+
+  <div class="settings-panel" role="dialog" aria-label="Settings" aria-hidden="true">
+    <div class="settings-row"><label for="user-name">Your initials <small>(recorded on decisions so the team knows who decided; screened)</small></label>
+      <input id="user-name" type="text" maxlength="8" autocomplete="off" placeholder="e.g. AR"></div>
+    <button class="secondary-button small edit-survey-action" type="button">Edit survey answers</button>
+    <button class="secondary-button small refresh-action" type="button">Refresh from Grants.gov now</button>
+    <p class="settings-status data-label">Loading data status…</p>
+  </div>
+
+  <main id="main-content">
+    <section class="inner-hero"><div class="inner-hero-grid" aria-hidden="true"></div><div class="container">
+      <div class="inner-hero-heading reveal"><span class="page-label"><span class="status-dot"></span>Decision log</span>
+        <h1>What your team <span class="gradient-text">decided.</span></h1>
+        <p class="hero-description">Every Pursue, Maybe and Pass with its reason, who made it and the score at the time. The full history is kept.</p></div>
+      <div class="metrics-grid decision-counters reveal">
+        <article><strong class="counter" data-key="reviewed">0</strong><span>Notices reviewed</span></article>
+        <article><strong class="counter" data-key="Pursue">0</strong><span>Pursue</span></article>
+        <article><strong class="counter" data-key="Maybe">0</strong><span>Maybe</span></article>
+        <article><strong class="counter" data-key="Pass">0</strong><span>Pass, with reasons</span></article>
+      </div></div></section>
+    <section class="section compact-section"><div class="container">
+      <div class="section-heading reveal"><div><span class="section-number">01</span><span class="section-kicker">Log</span></div><h2>Latest decision <span class="muted-heading">per notice.</span></h2></div>
+      <div class="table-wrap reveal"><table class="data-table decisions-table"><thead><tr><th>When</th><th>Decision</th><th>Relevance</th><th>Title</th><th>Reason</th><th>Note</th><th>By</th><th>Score then</th></tr></thead><tbody></tbody></table></div>
+      <div class="decisions-footer"><p class="table-count"></p>
+        <button class="secondary-button small clear-decisions" type="button" hidden>Clear all decisions</button>
+        <button class="text-button restore-decisions" type="button">Restore last clear</button></div>
+      <div class="clear-status" aria-live="polite"></div>
+    </div></section>
+  </main>
+
+  <footer class="site-footer"><div class="container">
+    <div class="footer-top">
+      <div class="footer-brand-column">
+        <a class="brand brand-footer" href="index.html" aria-label="GrantBridge home"><img class="brand-logo logo-on-dark" src="logo-dark.png?v=86746500cb" alt="GrantBridge" width="130" height="60" decoding="async"><img class="brand-logo logo-on-light" src="logo-light.png?v=86746500cb" alt="" aria-hidden="true" width="130" height="60" decoding="async"></a>
+        <p>A pilot prototype that helps North Carolina agencies find, screen and prioritize federal grants. People make every decision; nothing is ever submitted automatically.</p>
+      </div>
+      <div class="footer-links-column"><span>Explore</span><a href="index.html">Matches</a><a href="decisions.html">Decisions</a><a href="evaluation.html">Evaluation</a><a href="method.html">Method</a></div>
+      <div class="footer-links-column"><span>Sources</span><a href="https://www.grants.gov" target="_blank" rel="noopener">Grants.gov ↗</a><a href="https://www.osbm.nc.gov/operational-excellence/strategic-planning/agency-strategic-plans" target="_blank" rel="noopener">NC agency strategic plans ↗</a><a href="method.html">How it works</a></div>
+      <div class="footer-links-column"><span>Safeguards</span><a href="method.html#privacy">Privacy filter</a><a href="method.html#eligibility">Eligibility rules</a><a href="method.html#ai">How AI is checked</a></div>
+    </div>
+    <div class="footer-bottom"><p>© <span class="current-year"></span> GrantBridge · Federal Funds Matchmaker for NC agencies · NC OSBM Solve-a-thon prototype · public data only</p>
+      <p class="footer-data data-label"></p><button class="back-to-top" type="button">Back to top <span>↑</span></button></div>
+  </div></footer>
+
+  <div class="drawer" aria-hidden="true">
+    <div class="drawer-backdrop"></div>
+    <aside class="drawer-panel" role="dialog" aria-modal="true" aria-label="Opportunity details">
+      <button class="drawer-close icon-button" type="button" aria-label="Close details"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"></path></svg></button>
+      <div class="drawer-content"></div>
+    </aside>
+  </div>
+
+  <div class="survey-modal" aria-hidden="true">
+    <div class="survey-backdrop"></div>
+    <div class="survey-panel" role="dialog" aria-modal="true" aria-labelledby="survey-title">
+      <button class="survey-close icon-button" type="button" aria-label="Close survey"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"></path></svg></button>
+      <div class="survey-content"></div>
+    </div>
+  </div>
+
+  <div class="command-overlay" aria-hidden="true"><div class="command-panel" role="dialog" aria-modal="true" aria-label="Command menu">
+    <div class="command-search"><span>⌕</span><input type="text" placeholder="Jump to a page or action…" aria-label="Search commands"><kbd>ESC</kbd></div>
+    <div class="command-results"><span class="command-group-label">Pages</span><a class="command-item" href="index.html"><span class="command-item-icon">1</span><span><strong>Matches</strong><small>Go to matches</small></span><kbd>1</kbd></a><a class="command-item" href="decisions.html"><span class="command-item-icon">2</span><span><strong>Decisions</strong><small>Go to decisions</small></span><kbd>2</kbd></a><a class="command-item" href="evaluation.html"><span class="command-item-icon">3</span><span><strong>Evaluation</strong><small>Go to evaluation</small></span><kbd>3</kbd></a><a class="command-item" href="method.html"><span class="command-item-icon">4</span><span><strong>Method</strong><small>Go to method</small></span><kbd>4</kbd></a>
+      <span class="command-group-label">Actions</span>
+      <button class="command-item command-action" data-action="survey" type="button"><span class="command-item-icon">✎</span><span><strong>Edit survey answers</strong><small>Change focus areas, capacity, match and timing</small></span><kbd>S</kbd></button>
+      <button class="command-item command-action" data-action="clear-survey" type="button"><span class="command-item-icon">⟲</span><span><strong>Clear survey answers</strong><small>Reset focus areas and filters to neutral defaults (undoable)</small></span></button>
+      <button class="command-item command-action" data-action="refresh" type="button"><span class="command-item-icon">↻</span><span><strong>Refresh from Grants.gov</strong><small>Pull the latest notices now</small></span><kbd>R</kbd></button>
+      <button class="command-item command-action" data-action="theme" type="button"><span class="command-item-icon">◐</span><span><strong>Switch theme</strong><small>Light or dark</small></span><kbd>T</kbd></button>
+      <span class="command-group-label agency-commands-label">Agencies</span><div class="agency-commands"></div>
+    </div></div></div>
+
+  <div class="toast-stack" aria-live="polite" aria-atomic="false"></div>
+</body>
+</html>

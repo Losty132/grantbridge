@@ -1,0 +1,128 @@
+{
+  "agency_id": "osbm",
+  "name": "NC Office of State Budget and Management",
+  "short_name": "OSBM",
+  "plan": {
+    "title": "OSBM Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/documents/osbmstratplan25-2920250916/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "Ensure the effective stewardship of public resources by providing rigorous analysis and leadership.",
+    "citation": {
+      "document": "OSBM Strategic Plan 2025-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/documents/osbmstratplan25-2920250916/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Advance technology and new tools",
+    "Statewide network of finance and performance experts",
+    "Team culture that thrives in uncertainty",
+    "Use evidence to allocate resources"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "OSBM-1.1-1.6",
+      "goal_id": "1",
+      "goal_title": "Use evidence to allocate resources",
+      "text": "Review recurring budget for evidence of efficiency and effectiveness and build an evidence base for budget requests.",
+      "keywords": [
+        "evidence-based policymaking",
+        "program evaluation",
+        "budget"
+      ],
+      "citation": {
+        "document": "OSBM Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.1-1.6",
+        "url": "https://www.osbm.nc.gov/documents/osbmstratplan25-2920250916/download?attachment"
+      }
+    },
+    {
+      "id": "OSBM-2.1-2.4",
+      "goal_id": "2",
+      "goal_title": "Advance technology and new tools",
+      "text": "Implement a new budget system, automate workflows and establish a state term contract for grants systems.",
+      "keywords": [
+        "grants management",
+        "budget system",
+        "automation"
+      ],
+      "citation": {
+        "document": "OSBM Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.1-2.4",
+        "url": "https://www.osbm.nc.gov/documents/osbmstratplan25-2920250916/download?attachment"
+      }
+    },
+    {
+      "id": "OSBM-2.7",
+      "goal_id": "2",
+      "goal_title": "Advance technology and new tools",
+      "text": "Implement a uniform system for budgeting federal funds across agencies.",
+      "keywords": [
+        "federal funds",
+        "grants management"
+      ],
+      "citation": {
+        "document": "OSBM Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.7",
+        "url": "https://www.osbm.nc.gov/documents/osbmstratplan25-2920250916/download?attachment"
+      }
+    },
+    {
+      "id": "OSBM-3.6",
+      "goal_id": "3",
+      "goal_title": "Team culture that thrives in uncertainty",
+      "text": "Stand up a federal funds team as NCPRO winds down and the federal landscape changes.",
+      "keywords": [
+        "federal funds",
+        "disaster recovery funds",
+        "pandemic recovery"
+      ],
+      "citation": {
+        "document": "OSBM Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.6",
+        "url": "https://www.osbm.nc.gov/documents/osbmstratplan25-2920250916/download?attachment"
+      }
+    },
+    {
+      "id": "OSBM-4.1-4.5",
+      "goal_id": "4",
+      "goal_title": "Statewide network of finance and performance experts",
+      "text": "Build performance management skills, an IMPACT fellowship and a financial workforce pipeline.",
+      "keywords": [
+        "performance management",
+        "fellowship",
+        "public finance workforce"
+      ],
+      "citation": {
+        "document": "OSBM Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4.1-4.5",
+        "url": "https://www.osbm.nc.gov/documents/osbmstratplan25-2920250916/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "evidence-based policymaking",
+    "grants management",
+    "federal funds",
+    "performance management",
+    "data analytics"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "Treasury",
+    "HHS",
+    "Arnold Ventures"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

@@ -1,0 +1,273 @@
+{
+ "source": "TEST ONLY synthetic records",
+ "pulled_at": "2026-11-06T10:00:00+00:00",
+ "hits": [
+  {
+   "id": "9001",
+   "number": "TEST-9001",
+   "title": "[TEST ONLY] Drinking water PFAS reduction",
+   "agencyCode": "EPA",
+   "agencyName": "Environmental Protection Agency",
+   "openDate": "10/27/2026",
+   "closeDate": "01/05/2027",
+   "oppStatus": "posted",
+   "docType": "synopsis",
+   "alnist": [],
+   "found_by": [
+    "broad"
+   ]
+  },
+  {
+   "id": "9002",
+   "number": "TEST-9002",
+   "title": "[TEST ONLY] Coastal resilience planning",
+   "agencyCode": "DOC-NOAA-ERA",
+   "agencyName": "National Oceanic and Atmospheric Administration",
+   "openDate": "10/27/2026",
+   "closeDate": "11/16/2026",
+   "oppStatus": "posted",
+   "docType": "synopsis",
+   "alnist": [],
+   "found_by": [
+    "broad"
+   ]
+  },
+  {
+   "id": "9003",
+   "number": "TEST-9003",
+   "title": "[TEST ONLY] University geologic mapping training",
+   "agencyCode": "DOI-USGS1",
+   "agencyName": "Geological Survey",
+   "openDate": "10/27/2026",
+   "closeDate": "12/16/2026",
+   "oppStatus": "posted",
+   "docType": "synopsis",
+   "alnist": [],
+   "found_by": [
+    "broad"
+   ]
+  },
+  {
+   "id": "9004",
+   "number": "TEST-9004",
+   "title": "[TEST ONLY] Small business agriculture innovation",
+   "agencyCode": "USDA",
+   "agencyName": "Department of Agriculture",
+   "openDate": "10/27/2026",
+   "closeDate": "12/21/2026",
+   "oppStatus": "posted",
+   "docType": "synopsis",
+   "alnist": [],
+   "found_by": [
+    "broad"
+   ]
+  },
+  {
+   "id": "9005",
+   "number": "TEST-9005",
+   "title": "[TEST ONLY] Expired water grant",
+   "agencyCode": "EPA",
+   "agencyName": "Environmental Protection Agency",
+   "openDate": "10/27/2026",
+   "closeDate": "11/04/2026",
+   "oppStatus": "posted",
+   "docType": "synopsis",
+   "alnist": [],
+   "found_by": [
+    "broad"
+   ]
+  },
+  {
+   "id": "9006",
+   "number": "TEST-9006",
+   "title": "[TEST ONLY] Library digitization",
+   "agencyCode": "IMLS",
+   "agencyName": "Institute of Museum and Library Services",
+   "openDate": "10/27/2026",
+   "closeDate": "",
+   "oppStatus": "forecasted",
+   "docType": "synopsis",
+   "alnist": [],
+   "found_by": [
+    "broad"
+   ]
+  },
+  {
+   "id": "9007",
+   "number": "TEST-9007",
+   "title": "[TEST ONLY] Tiny planning award",
+   "agencyCode": "EPA",
+   "agencyName": "Environmental Protection Agency",
+   "openDate": "10/27/2026",
+   "closeDate": "12/26/2026",
+   "oppStatus": "posted",
+   "docType": "synopsis",
+   "alnist": [],
+   "found_by": [
+    "broad"
+   ]
+  },
+  {
+   "id": "9008",
+   "number": "TEST-9008",
+   "title": "[TEST ONLY] Others-eligibility hazard grant",
+   "agencyCode": "FEMA",
+   "agencyName": "Department of Homeland Security - FEMA",
+   "openDate": "10/27/2026",
+   "closeDate": "02/04/2027",
+   "oppStatus": "posted",
+   "docType": "synopsis",
+   "alnist": [],
+   "found_by": [
+    "broad"
+   ]
+  }
+ ],
+ "details": {
+  "9001": {
+   "id": "9001",
+   "opportunityNumber": "TEST-9001",
+   "opportunityTitle": "[TEST ONLY] Drinking water PFAS reduction",
+   "synopsis": {
+    "awardCeiling": "2000000",
+    "costSharing": "false",
+    "applicantTypes": [
+     {
+      "id": "00",
+      "description": ""
+     }
+    ],
+    "synopsisDesc": "Supports states to reduce PFAS in drinking water systems. Applicants must describe and justify all proposed costs in a budget justification. The project narrative may not exceed 20 pages. Two letters of support are required."
+   },
+   "forecast": {},
+   "attachments": []
+  },
+  "9002": {
+   "id": "9002",
+   "opportunityNumber": "TEST-9002",
+   "opportunityTitle": "[TEST ONLY] Coastal resilience planning",
+   "synopsis": {
+    "awardCeiling": "750000",
+    "costSharing": "true",
+    "applicantTypes": [
+     {
+      "id": "00",
+      "description": ""
+     }
+    ],
+    "synopsisDesc": "Funds coastal resilience and flood hazard mitigation planning for states. A 25 percent non-federal match is required."
+   },
+   "forecast": {},
+   "attachments": []
+  },
+  "9003": {
+   "id": "9003",
+   "opportunityNumber": "TEST-9003",
+   "opportunityTitle": "[TEST ONLY] University geologic mapping training",
+   "synopsis": {
+    "awardCeiling": "180000",
+    "costSharing": "true",
+    "applicantTypes": [
+     {
+      "id": "06",
+      "description": ""
+     }
+    ],
+    "synopsisDesc": "Supports universities to train students in geologic mapping of landslide hazards. Only institutions of higher education may apply."
+   },
+   "forecast": {},
+   "attachments": []
+  },
+  "9004": {
+   "id": "9004",
+   "opportunityNumber": "TEST-9004",
+   "opportunityTitle": "[TEST ONLY] Small business agriculture innovation",
+   "synopsis": {
+    "awardCeiling": "150000",
+    "costSharing": "false",
+    "applicantTypes": [
+     {
+      "id": "23",
+      "description": ""
+     }
+    ],
+    "synopsisDesc": "Supports small businesses developing prototypes."
+   },
+   "forecast": {},
+   "attachments": []
+  },
+  "9005": {
+   "id": "9005",
+   "opportunityNumber": "TEST-9005",
+   "opportunityTitle": "[TEST ONLY] Expired water grant",
+   "synopsis": {
+    "awardCeiling": "100000",
+    "costSharing": "false",
+    "applicantTypes": [
+     {
+      "id": "00",
+      "description": ""
+     }
+    ],
+    "synopsisDesc": "Water quality monitoring for states."
+   },
+   "forecast": {},
+   "attachments": []
+  },
+  "9006": {
+   "id": "9006",
+   "opportunityNumber": "TEST-9006",
+   "opportunityTitle": "[TEST ONLY] Library digitization",
+   "synopsis": {},
+   "forecast": {
+    "awardCeiling": "500000",
+    "costSharing": "false",
+    "applicantTypes": [
+     {
+      "id": "00",
+      "description": ""
+     }
+    ],
+    "forecastDesc": "Supports state library agencies to digitize archives and historic collections.",
+    "estApplicationResponseDate": "03/06/2027"
+   },
+   "attachments": []
+  },
+  "9007": {
+   "id": "9007",
+   "opportunityNumber": "TEST-9007",
+   "opportunityTitle": "[TEST ONLY] Tiny planning award",
+   "synopsis": {
+    "awardCeiling": "20000",
+    "costSharing": "false",
+    "applicantTypes": [
+     {
+      "id": "00",
+      "description": ""
+     }
+    ],
+    "synopsisDesc": "Supports watershed planning for water quality."
+   },
+   "forecast": {},
+   "attachments": []
+  },
+  "9008": {
+   "id": "9008",
+   "opportunityNumber": "TEST-9008",
+   "opportunityTitle": "[TEST ONLY] Others-eligibility hazard grant",
+   "synopsis": {
+    "awardCeiling": "1000000",
+    "costSharing": "",
+    "applicantTypes": [
+     {
+      "id": "25",
+      "description": ""
+     }
+    ],
+    "synopsisDesc": "Supports hazard mitigation for natural hazards and extreme weather."
+   },
+   "forecast": {},
+   "attachments": []
+  }
+ }
+}

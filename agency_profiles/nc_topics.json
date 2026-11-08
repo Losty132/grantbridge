@@ -1,0 +1,21 @@
+{
+  "note": "Fallback focus areas when an agency plan is vague or outdated. Generic topic list, not taken from any plan.",
+  "topics": [
+    "Water quality and water infrastructure",
+    "Disaster recovery and hazard mitigation",
+    "Climate resilience",
+    "Broadband and digital access",
+    "Public health",
+    "K-12 education",
+    "Workforce development",
+    "Natural resources and conservation",
+    "Arts, history and culture",
+    "Transportation",
+    "Public safety",
+    "Economic development",
+    "Housing",
+    "Agriculture",
+    "Energy",
+    "Data systems and modernization"
+  ]
+}

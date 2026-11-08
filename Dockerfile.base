@@ -1,0 +1,7 @@
+# Python + all packages. Rebuilt only when requirements.txt changes (deploy/update.sh checks a hash),
+# so a normal deploy only copies the code on top of it and takes about a minute instead of 5-7.
+FROM python:3.13-slim
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1 PIP_NO_CACHE_DIR=1
+WORKDIR /app
+COPY requirements.txt .
+RUN pip install -r requirements.txt && useradd --create-home appuser

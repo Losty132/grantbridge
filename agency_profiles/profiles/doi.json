@@ -1,0 +1,161 @@
+{
+  "agency_id": "doi",
+  "name": "NC Department of Insurance",
+  "short_name": "DOI",
+  "plan": {
+    "title": "NC Department of Insurance Strategic Plan 2025-2029",
+    "years": "2025-2029",
+    "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doi/download?attachment",
+    "retrieved": "2026-11-07"
+  },
+  "mission": {
+    "text": "Safeguards North Carolina residents through insurance consumer protection, insurer financial oversight, marketplace regulation, and fraud control.",
+    "citation": {
+      "document": "NC Department of Insurance Strategic Plan 2025-2029",
+      "section": "Mission / purpose",
+      "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doi/download?attachment"
+    }
+  },
+  "responsibilities": [],
+  "program_priorities": [
+    "Consumer protection, education and support",
+    "Fraud control and public safety",
+    "Insurer financial oversight and transparency",
+    "Marketplace optimization"
+  ],
+  "operating_programs": [],
+  "objectives": [
+    {
+      "id": "DOI-1.1-1.4",
+      "goal_id": "1",
+      "goal_title": "Consumer protection, education and support",
+      "text": "Administer licensing and investigate licensee conduct to ensure fair treatment of insurance purchasers.",
+      "keywords": [
+        "insurance licensing",
+        "consumer protection"
+      ],
+      "citation": {
+        "document": "NC Department of Insurance Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.1-1.4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doi/download?attachment"
+      }
+    },
+    {
+      "id": "DOI-1.6-1.10",
+      "goal_id": "1",
+      "goal_title": "Consumer protection, education and support",
+      "text": "Provide Medicare counseling through the Seniors' Health Insurance Information Program (SHIIP), with community partners and volunteers in every county.",
+      "keywords": [
+        "SHIIP",
+        "Medicare counseling",
+        "seniors",
+        "older adults",
+        "State Health Insurance Assistance Program"
+      ],
+      "citation": {
+        "document": "NC Department of Insurance Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.6-1.10",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doi/download?attachment"
+      }
+    },
+    {
+      "id": "DOI-1.11",
+      "goal_id": "1",
+      "goal_title": "Consumer protection, education and support",
+      "text": "Provide guidance and intervention for health insurance disputes and appeals.",
+      "keywords": [
+        "health insurance",
+        "consumer assistance",
+        "appeals"
+      ],
+      "citation": {
+        "document": "NC Department of Insurance Strategic Plan 2025-2029",
+        "section": "Goal 1, Objective 1.11",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doi/download?attachment"
+      }
+    },
+    {
+      "id": "DOI-2.1-2.5",
+      "goal_id": "2",
+      "goal_title": "Insurer financial oversight and transparency",
+      "text": "Monitor insurer solvency and conduct financial examinations to protect consumers' financial interests.",
+      "keywords": [
+        "solvency",
+        "financial examination",
+        "insurance regulation"
+      ],
+      "citation": {
+        "document": "NC Department of Insurance Strategic Plan 2025-2029",
+        "section": "Goal 2, Objective 2.1-2.5",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doi/download?attachment"
+      }
+    },
+    {
+      "id": "DOI-3.1-3.3",
+      "goal_id": "3",
+      "goal_title": "Marketplace optimization",
+      "text": "Streamline rate and form filing reviews, conduct market conduct exams and promote captive insurance.",
+      "keywords": [
+        "rate review",
+        "market conduct",
+        "insurance marketplace"
+      ],
+      "citation": {
+        "document": "NC Department of Insurance Strategic Plan 2025-2029",
+        "section": "Goal 3, Objective 3.1-3.3",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doi/download?attachment"
+      }
+    },
+    {
+      "id": "DOI-4.1",
+      "goal_id": "4",
+      "goal_title": "Fraud control and public safety",
+      "text": "Strengthen insurance fraud enforcement through investigation and prosecution.",
+      "keywords": [
+        "insurance fraud",
+        "fraud enforcement"
+      ],
+      "citation": {
+        "document": "NC Department of Insurance Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4.1",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doi/download?attachment"
+      }
+    },
+    {
+      "id": "DOI-4.4",
+      "goal_id": "4",
+      "goal_title": "Fraud control and public safety",
+      "text": "Integrate artificial intelligence into fraud detection and response.",
+      "keywords": [
+        "artificial intelligence",
+        "fraud detection"
+      ],
+      "citation": {
+        "document": "NC Department of Insurance Strategic Plan 2025-2029",
+        "section": "Goal 4, Objective 4.4",
+        "url": "https://www.osbm.nc.gov/documents/files/strategic-plan-doi/download?attachment"
+      }
+    }
+  ],
+  "search_terms": [
+    "insurance consumer protection",
+    "SHIIP",
+    "Medicare counseling",
+    "insurance fraud",
+    "health insurance"
+  ],
+  "eligible_applicant_codes": [
+    "00",
+    "25",
+    "99"
+  ],
+  "preferred_funders": [
+    "CMS",
+    "HHS",
+    "Administration for Community Living",
+    "ACL"
+  ],
+  "wording_note": "Goals and objectives are close summaries of the plan posted on the OSBM Agency Strategic Plans page (retrieved 2026-11-07); check the cited section before quoting. Keywords, search terms and usual funders were chosen by the team as matching aids.",
+  "reviewed_by": "",
+  "profile_version": "statewide-1.0"
+}

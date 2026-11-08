@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/
+.env
+drafts/
+*.zip
+.pytest_cache/
+evaluation/results/*.json
+evaluation/results/*.md
+deploy/azure_names.env
