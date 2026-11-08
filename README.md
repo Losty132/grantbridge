@@ -34,6 +34,7 @@ No database, no build step for the front end.
 4. In Azure: `source deploy/azure_names.env && bash deploy/status.sh` shows the URL, job runs and logs.
 
 **Where to change things**
+
 | Task | Where | Notes |
 |---|---|---|
 | Add or edit an agency | `agency_profiles/profiles/<id>.json` | Picked up automatically (`AGENCIES=all`). `python -m agency_profiles.extract_profile` drafts one from a plan PDF; a person must verify each objective. Run `pytest` (it validates every profile). |
@@ -47,6 +48,7 @@ No database, no build step for the front end.
 | Rotate keys | Azure portal or `az containerapp secret set` | Never put secrets in code, zips or git. |
 
 **Runbook**
+
 | Symptom | Check | Fix |
 |---|---|---|
 | Banner says CACHED DATA | `bash deploy/status.sh` → last job run and `last_error` | Usually Grants.gov was down; the next daily run recovers. `az containerapp job start -n $JOB -g $RG` to retry now. |
@@ -87,6 +89,7 @@ pytest -q
 python-dateutil, azure-storage-blob, azure-core, openai, pypdf, fpdf2, python-dotenv, tzdata. `requirements-dev.txt` adds pytest. Python 3.12+ (the Docker image uses 3.13).
 
 ## 3. Configuration (`.env.example`)
+
 | Variable | Default | Purpose |
 |---|---|---|
 | `STORAGE_CONN` | empty → `./data` | Azure Blob Storage connection string (**secret**) |
@@ -157,6 +160,7 @@ refresh job are updated in parallel, and the app keeps one replica running (no c
 * De-duplicated by opportunity ID and number. `opportunities/registry.json` tracks first-seen, last-seen and last-modified.
 
 ## 6. Scoring methodology (/100: a prioritization score, not a probability of winning)
+
 | Component | Points | Method |
 |---|---|---|
 | Strategic alignment | 50 | Similarity between the notice and **each** objective (plus operating programs, ×0.95), combined (noisy-OR) with **that objective's own keywords** found in the notice (a title hit counts double; keywords alone can give at most 60%). A second objective that also matches well adds 5%. Objectives you tick in Q2 are boosted (others ×0.85). TF-IDF matches with none of the agency's keywords count ×0.85 (often one shared generic word). Azure OpenAI embeddings when available, otherwise TF-IDF. |
@@ -355,6 +359,7 @@ Dockerfile, Dockerfile.base  app image on top of a cached package image; entrypo
 
 ## Performance (the point of the tool is to save staff time)
 Measured on a 3,000-notice test dataset, one container:
+
 | What | Time |
 |---|---|
 | Matches page usable (cards on screen) | ~0.5 s |
